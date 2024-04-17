@@ -155,7 +155,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
   icon.addEventListener('click', function() {
       // Replace 'your_cv_file_path' with the actual path to your CV file
-      var cvFilePath = 'https://github.com/tguimas/Portfolio-Power_Platform/blob/main/tguimasCV.pdf'
+      var cvFilePath = 'https://github.com/tguimas/Portfolio/blob/main/tguimasCV.pdf'
       ; 
       var a = document.createElement('a');
       a.href = cvFilePath;
