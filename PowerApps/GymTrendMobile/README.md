@@ -2,7 +2,9 @@
 
 ### This is an app for gym management
 
-![ezgif com-animated-gif-maker](https://github.com/tguimas/Portfolio/assets/115223702/491e338c-48a0-4660-b9ba-0d55212e1a46)
+
+![ezgif com-animated-gif-maker (1)](https://github.com/tguimas/Portfolio/assets/115223702/56f6116f-4448-405c-9ef8-04403efa544f)
+
 
 ### Login Page
 
@@ -31,6 +33,30 @@ This page displays an avatar, an welcome message and the date
 
 ### Gym Management Page
 
+In this page the user can take a photo and upload it into the app
+
+
+![Screenshot_5](https://github.com/tguimas/Portfolio/assets/115223702/330d45bf-631a-48ec-be1a-722e5ccb12b3)
+
+
+### Gym Management Gallery Page
+
+This page displays all the photos taken by the user. The user can download or eliminate the photo.
+
+
+![Screenshot_8](https://github.com/tguimas/Portfolio/assets/115223702/09f35427-2074-43b6-a8d2-cbc14cca4b8c)
+
+
+### Check Local Page
+
+This page shows all the rooms available
+
+### Check List Page
+
+This page let's the user manage which rooms or tasks are operational and take a picture
+
+
+![Screenshot_7](https://github.com/tguimas/Portfolio/assets/115223702/f9ecd5a9-e8ba-45c4-9596-1efdacf3e45c)
 
 
 
