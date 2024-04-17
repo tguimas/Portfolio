@@ -57,7 +57,7 @@ This page shows all the rooms available
 
 ### Check List Page
 
-This page let's the user manage which rooms or tasks are operational and take a picture
+This page let's the user manage which tasks are operational in each room and let's the user take a picture
 
 
 ![Screenshot_7](https://github.com/tguimas/Portfolio/assets/115223702/f9ecd5a9-e8ba-45c4-9596-1efdacf3e45c)
