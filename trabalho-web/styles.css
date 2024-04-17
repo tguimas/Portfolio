@@ -1,0 +1,366 @@
+body {
+  background-image: url(./images/background2.jpg);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  border-color: #333;
+  box-shadow: #5f615f;
+}
+
+header {
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  background-color: #b3aeae;
+  margin-right: 400px;
+  margin-left: 400px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 60px;
+}
+
+#logo-image {
+  width: 400px;
+  height: 350px;
+}
+
+.marquee-image-sale {
+  width: 200px;
+  height: 200px;
+}
+
+.marquee-image-car1 {
+  width: 300px;
+  height: 200px;
+}
+
+.marquee-image-car2 {
+  width: 300px;
+  height: 150px;
+
+}
+
+.showcase {
+  font-size: larger;
+  font-style: italic;
+  margin-top: 170px;
+  border: 3px solid black;
+  margin-left: 600px;
+  margin-right: 600px;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+h1.contact-title {
+  margin-left: 630px;
+  text-align: center;
+
+}
+
+.form-container {
+  background-color: #b6b2b2;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+  margin-bottom: 50px;
+  margin-left: 20px;
+}
+
+form {
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background-color: #7f807f;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+
+}
+
+.car-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.car-button {
+  background-color: #5f615f;
+  color: white;
+  padding: 5px;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.3s ease-in-out;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.car-button:hover {
+  transform: scale(1.1);
+}
+
+.car-info {
+  text-align: center;
+  margin-top: 5px;
+}
+
+p {
+  text-align: center;
+  margin-top: 5px;
+}
+
+video,
+audio {
+  display: flex;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+video {
+  width: 700px;
+  height: 400px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+
+.car-details,
+.car-features {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.car-details img {
+  width: 40%;
+  height: auto;
+}
+
+.car-details p {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.car-features img {
+  width: 40%;
+  height: auto;
+}
+
+.car-features p {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 16px;
+
+}
+
+.car-button-image {
+  width: 300px;
+  height: 150px;
+}
+
+.price-box {
+  width: 150px;
+  height: 50px;
+  border: 1px solid #dc3545;
+  background-color: #8c101d;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 10px;
+}
+
+.car-details p,
+.car-features p {
+  width: 50%;
+  margin: 10 auto;
+  text-align: justify;
+}
+
+.car-features li {
+  width: 50%;
+  margin: 10px 30px 20 20;
+  text-align: justify;
+}
+
+.center-tables {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 20%;
+  background-color: white;
+
+}
+
+th {
+  border: 3px solid black;
+  padding: 8px;
+  text-align: center;
+}
+
+td {
+  padding: 8px;
+  border: 3px solid black;
+
+}
+
+.ticker {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  height: 50px;
+  margin: 0 auto;
+}
+
+.news {
+  width: 100%;
+  background: #cc4444;
+  border-radius: 10px;
+}
+
+.social-icon {
+  color: black;
+}
+
+.news marquee {
+  font-size: 18px;
+  margin-top: 12px
+}
+
+.news-content p {
+  margin-right: 41px;
+  display: inline
+}
+
+.container-fluid {
+  overflow: hidden;
+  margin-top: 250px;
+  background: #262626;
+  color: #627482 !important;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+small {
+  font-size: calc(12px + (15 - 12) * ((100vw - 360px) / (1600 - 360)));
+}
+
+.bold-text {
+  color: #989c9e;
+}
+
+.mt-55 {
+  margin-top: calc(50px + (60 - 50) * ((100vw - 360px) / (1600 - 360)));
+}
+
+.social {
+  font-size: 21px;
+}
+
+.rights {
+  font-size: calc(10px + (12 - 10) * ((100vw - 360px) / (1600 - 360)));
+}
+
+.clientcheck {
+  align-items: center;
+  margin-left: 100px;
+  margin-right: 1240px;
+  background-color: #c2c5c2;
+  padding: auto;
+}
+
+.clientchecktitle {
+  align-items: center;
+  margin-left: 100px;
+  margin-right: 1240px;
+  font-size: large;
+}
+
+.button a {
+  text-decoration: none;
+  color: white;
+}
+
+.client-check-container {
+  border: 2px solid rgb(200, 196, 196);
+  padding: 10px;
+  width: fit-content;
+  margin: 20px auto;
+}
+
+.calculator-box {
+  width: 250px;
+  margin: 20px auto;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-left: 200px;
+}
+
+.calculator {
+  text-align: center;
+}
+
+#display {
+  width: 90%;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.buttons button {
+  width: 45px;
+  height: 45px;
+  margin: 5px;
+  font-size: 20px;
+}

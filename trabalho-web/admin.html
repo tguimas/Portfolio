@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+
+<head>
+    <title>WORLD OF CARS</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<body>
+    <header>
+        <div class="button">
+            <button><a href="./form.html">Contact Us</a></button>
+        </div>
+
+        <button class="button"><a href="./admin.html">Administrator</a></button>
+    </header>
+    <h1 class="logo" align="center">
+        <a href="./trabalho1.html"><img id="logo-image" src="./images/logo.jpg" alt="logo" /></a>
+    </h1>
+    <hr />
+    <h2 align="center">
+        <ins>ADMINISTRATION</ins>
+    </h2>
+    <div class="client-check-container">
+        <label class="clientchecktitle"><strong> Client Check</strong></label><br>
+        <div class="clientcheck">
+            <label for="clientname"><strong>Client:</strong></label> <input type="text" id="clientname">
+        </div>
+        <div class="clientcheck">
+            <label for="result"><strong>Result:</strong></label><span id="result"></span>
+        </div>
+        <a class="clientcheck" href="#" onclick="validate();"><strong>Verify</strong> </a>
+
+    </div>
+    <div class="center-tables">
+        <table>
+            <caption>
+                <h3><ins>Car Price List</ins></h3>
+            </caption>
+            <tr>
+                <th>Car</th>
+                <th>Price €</th>
+            </tr>
+            <tr>
+                <td>Maruti Suzuki Fronx</td>
+                <td>50,000</td>
+            </tr>
+            <tr>
+                <td>Kia Seltos</td>
+                <td>60,000</td>
+            </tr>
+            <tr>
+                <td>Volvo Polestar 2</td>
+                <td>46,000</td>
+            </tr>
+            <tr>
+                <td>Honda Elevate</td>
+                <td>55,000</td>
+            </tr>
+        </table>
+        <hr />
+        <table>
+            <caption>
+                <h3><ins>Client List</ins></h3>
+            </caption>
+            <tr>
+                <th>Client</th>
+                <th>Contact</th>
+            </tr>
+            <tr>
+                <td>John Smith</td>
+                <td>875683955</td>
+            </tr>
+            <tr>
+                <td>Mary Thompson</td>
+                <td>667543568</td>
+            </tr>
+            <tr>
+                <td>Paul Thompson</td>
+                <td>344564331</td>
+            </tr>
+            <tr>
+                <td>Carl Johnson</td>
+                <td>667532568</td>
+            </tr>
+            <tr>
+                <td>Clara Cox</td>
+                <td>343211568</td>
+            </tr>
+            <tr>
+                <td>Tom Depp</td>
+                <td>234513568</td>
+            </tr>
+        </table>
+    </div>
+    <hr />
+    <div class="calculator-box">
+        <div class="calculator">
+            <input type="text" id="display" disabled>
+            <div class="buttons">
+                <button onclick="appendToDisplay('7')">7</button>
+                <button onclick="appendToDisplay('8')">8</button>
+                <button onclick="appendToDisplay('9')">9</button>
+                <button onclick="appendToDisplay('+')">+</button>
+                <button onclick="appendToDisplay('4')">4</button>
+                <button onclick="appendToDisplay('5')">5</button>
+                <button onclick="appendToDisplay('6')">6</button>
+                <button onclick="appendToDisplay('-')">-</button>
+                <button onclick="appendToDisplay('1')">1</button>
+                <button onclick="appendToDisplay('2')">2</button>
+                <button onclick="appendToDisplay('3')">3</button>
+                <button onclick="appendToDisplay('*')">*</button>
+                <button onclick="appendToDisplay('0')">0</button>
+                <button onclick="appendToDisplay('.')">.</button>
+                <button onclick="clearDisplay()">C</button>
+                <button onclick="calculate()">=</button>
+                <button onclick="appendToDisplay('/')">/</button>
+            </div>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+    <footer>
+        <div class="row my-5 justify-content-center py-5">
+            <div class="col-11">
+                <div class="row">
+                    <div class="col-xl-8 col-md-4 col-sm-4 col-12 my-auto mx-auto a">
+                        <p id="time"></p>
+                        <h3 class="text-muted mb-md-0 mb-5 bold-text">World Of Cars</h3>
+                    </div>
+                    <div class="col-xl-2 col-md-4 col-sm-4 col-12">
+                        <h6 class="mb-3 mb-lg-4 text-muted bold-text mt-sm-0 mt-5"><b>ADDRESS</b></h6>
+                        <p class="mb-1">605, RATAN ICON BUILDING</p>
+                        <p>SEAWOODS SECTOR</p>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-8 col-md-4 col-sm-4 col-auto my-md-0 mt-5 order-sm-1 order-3 align-self-end">
+                            <a href="https://www.facebook.com/worldofcars" target="_blank" class="social-icon"><i
+                                    class="fab fa-facebook-f"></i></a>
+                            <a href="https://www.instagram.com/worldofcars" target="_blank" class="social-icon"><i
+                                    class="fab fa-instagram"></i></a>
+                            <br>
+                            <br>
+                            <small class="rights"><span>&#174;</span> World Of Cars All Rights Reserved.</small>
+                            <audio controls autoplay>
+                                <source src="./audio/audio1.mp3" type="audio/mpeg" />
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+</body>
+
+</html>

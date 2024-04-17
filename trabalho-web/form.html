@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-pt">
+
+<head>
+    <title>WORLD OF CARS</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<body>
+    <header>
+        <button class="button"><a href="./admin.html">Administrator</a></button>
+    </header>
+
+    <h1 class="logo" align="center">
+        <a href="./trabalho1.html"><img id="logo-image" src="./images/logo.jpg" alt="logo" /></a>
+    </h1>
+
+    <body>
+        <header>
+            <h1 class="contact-title">Contact Us</h1>
+        </header>
+
+        <div class="form-container">
+
+            <form name="contact" onsubmit="return validateForm();" method="POST">
+                <div class="form-group">
+                    <label for="name"><strong>Name</strong></label>
+                    <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" />
+                </div>
+                <div class="form-group">
+                    <label for="address"><strong> Address</strong></label>
+                    <input type="text" class="form-control" id="address" name="address"
+                        placeholder="Enter your address" />
+                </div>
+                <div class="form-group">
+                    <label for="phone"><strong>Phone Number</strong></label>
+                    <input type="number" class="form-control" id="phone" name="phone"
+                        placeholder="Enter your phone number" />
+                </div>
+                <div class="form-group">
+                    <label for="E-mail"><strong> E-mail</strong></label>
+                    <input type="email" class="form-control" id="email" name="email" placeholder="Enter your e-mail"
+                        required />
+                </div>
+                <div class="form-group">
+                    <label for="country"> <strong>Country</strong></label>
+                    <select class="form-control" id="country" name="country">
+                        <option value="PT">Portugal</option>
+                        <option value="ES">Spain</option>
+                        <option value="IT">Italy</option>
+                        <option value="UK">England</option>
+                        <option value="DE">Germany</option>
+                        <option value="USA">United States</option>
+                        <option value="BR">Brazil</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="message"> <strong>Message:</strong></label>
+                    <textarea class="form-control" id="message" name="message" rows="5" placeholder="Enter your message" required></textarea>
+                </div>
+                <button class="button-form" type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+        <br>
+        <script src="./script.js"></script>
+        <footer>
+            <div class="row my-5 justify-content-center py-5">
+                <p id="time"></p>
+                <div class="col-11">
+                    <div class="row">
+                        <div class="col-xl-8 col-md-4 col-sm-4 col-12 my-auto mx-auto a">
+                            <p id="time"></p>
+                            <h3 class="text-muted mb-md-0 mb-5 bold-text">World Of Cars</h3>
+                        </div>
+                        <div class="col-xl-2 col-md-4 col-sm-4 col-12">
+                            <h6 class="mb-3 mb-lg-4 text-muted bold-text mt-sm-0 mt-5"><b>ADDRESS</b></h6>
+                            <p class="mb-1">605, RATAN ICON BUILDING</p>
+                            <p>SEAWOODS SECTOR</p>
+                        </div>
+                        <div class="row">
+                            <div
+                                class="col-xl-8 col-md-4 col-sm-4 col-auto my-md-0 mt-5 order-sm-1 order-3 align-self-end">
+                                <a href="https://www.facebook.com/worldofcars" target="_blank"
+                                    class="social-icon mr-3"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/worldofcars" target="_blank" class="social-icon"><i
+                                        class="fab fa-instagram"></i></a>
+                                <br>
+                                <br>
+                                <small class="rights"><span>&#174;</span> World Of Cars All Rights Reserved.</small>
+                                <audio controls autoplay>
+                                    <source src="./audio/audio1.mp3" type="audio/mpeg" />
+                                </audio>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </body>
+
+</html>
