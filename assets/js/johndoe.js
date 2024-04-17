@@ -156,7 +156,7 @@ document.addEventListener("DOMContentLoaded", function() {
     
     icon.addEventListener('click', function() {
         // GitHub URL to your CV file (raw version)
-        var cvFilePath = 'https://raw.githubusercontent.com/tguimas/Portfolio/main/tguimasCV.pdf'; 
+        var cvFilePath = 'https://tguimas.github.io/Portfolio/tguimasCV.pdf'; 
         var a = document.createElement('a');
         a.href = cvFilePath;
         a.download = 'tguimasCV.pdf'; // Specify the filename you want for the downloaded CV
