@@ -3,7 +3,7 @@
 ### This is an app for Gym Management
 
 
-![gymtrendmobile](https://github.com/tguimas/Portfolio/assets/115223702/6935790e-e784-47d5-b7e1-c32e0bc18f5f)
+![ezgif com-animated-gif-maker (1)](https://github.com/tguimas/Portfolio/assets/115223702/8e6b1327-f9f9-4b39-bf09-44e870f69653)
 
 
 ### Login Page
