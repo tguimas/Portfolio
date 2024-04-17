@@ -148,3 +148,20 @@ function initMap() {
       ]
     });
 }
+
+document.addEventListener("DOMContentLoaded", function() {
+  var downloadBtn = document.getElementById('downloadCVBtn');
+  var icon = downloadBtn.querySelector('i.icon-down-circled2');
+  
+  icon.addEventListener('click', function() {
+      // Replace 'your_cv_file_path' with the actual path to your CV file
+      var cvFilePath = 'https://github.com/tguimas/Portfolio-Power_Platform/blob/main/tguimasCV.pdf'
+      ; 
+      var a = document.createElement('a');
+      a.href = cvFilePath;
+      a.download = 'tguimasCV.pdf'; // Specify the filename you want for the downloaded CV
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+  });
+});
