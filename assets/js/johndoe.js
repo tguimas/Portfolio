@@ -150,19 +150,3 @@ function initMap() {
 }
 
 
-document.addEventListener("DOMContentLoaded", function() {
-    var downloadBtn = document.getElementById('downloadCVBtn');
-    var icon = downloadBtn.querySelector('i.icon-down-circled2');
-    
-    icon.addEventListener('click', function() {
-        // GitHub URL to your CV file (raw version)
-        var cvFilePath = 'https://tguimas.github.io/Portfolio/tguimasCV.pdf'; 
-        var a = document.createElement('a');
-        a.href = cvFilePath;
-        a.download = 'tguimasCV.pdf'; // Specify the filename you want for the downloaded CV
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-    });
-});
-
