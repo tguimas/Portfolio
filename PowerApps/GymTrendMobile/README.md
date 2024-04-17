@@ -51,6 +51,10 @@ This page displays all the photos taken by the user. The user can download or el
 
 This page shows all the rooms available
 
+
+![Screenshot_4](https://github.com/tguimas/Portfolio/assets/115223702/8f44d62e-3947-47a5-9e5f-71ab5a33166a)
+
+
 ### Check List Page
 
 This page let's the user manage which rooms or tasks are operational and take a picture
