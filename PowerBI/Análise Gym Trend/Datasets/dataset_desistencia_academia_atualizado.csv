@@ -1,0 +1,1001 @@
+ID,Motivo,ID_Motivo,ID_Pesquisa
+1,Custo da mensalidade,3,1
+2,Pandemia/Preocupações com a saúde,10,2
+3,Lesão ou problema de saúde,6,3
+4,Falta de motivação,4,4
+5,Falta de tempo,1,5
+6,Falta de tempo,1,6
+7,Falta de tempo,1,7
+8,Insatisfação com o ambiente ou equipamentos,9,8
+9,Preferência por atividades ao ar livre,5,9
+10,Lesão ou problema de saúde,6,10
+11,Falta de tempo,1,11
+12,Pandemia/Preocupações com a saúde,10,12
+13,Mudança de residência,8,13
+14,Distância da academia,2,14
+15,Falta de tempo,1,15
+16,Falta de tempo,1,16
+17,Custo da mensalidade,3,17
+18,Falta de motivação,4,18
+19,Custo da mensalidade,3,19
+20,Distância da academia,2,20
+21,Preferência por atividades ao ar livre,5,21
+22,Falta de tempo,1,22
+23,Distância da academia,2,23
+24,Custo da mensalidade,3,24
+25,Falta de motivação,4,25
+26,Falta de companhia,7,26
+27,Falta de tempo,1,27
+28,Falta de motivação,4,28
+29,Falta de motivação,4,29
+30,Falta de tempo,1,30
+31,Preferência por atividades ao ar livre,5,31
+32,Falta de tempo,1,32
+33,Falta de tempo,1,33
+34,Pandemia/Preocupações com a saúde,10,34
+35,Pandemia/Preocupações com a saúde,10,35
+36,Mudança de residência,8,36
+37,Custo da mensalidade,3,37
+38,Falta de tempo,1,38
+39,Lesão ou problema de saúde,6,39
+40,Custo da mensalidade,3,40
+41,Falta de tempo,1,41
+42,Falta de motivação,4,42
+43,Falta de tempo,1,43
+44,Pandemia/Preocupações com a saúde,10,44
+45,Distância da academia,2,45
+46,Lesão ou problema de saúde,6,46
+47,Custo da mensalidade,3,47
+48,Falta de motivação,4,48
+49,Falta de motivação,4,49
+50,Falta de tempo,1,50
+51,Pandemia/Preocupações com a saúde,10,51
+52,Falta de companhia,7,52
+53,Pandemia/Preocupações com a saúde,10,53
+54,Insatisfação com o ambiente ou equipamentos,9,54
+55,Falta de motivação,4,55
+56,Pandemia/Preocupações com a saúde,10,56
+57,Falta de tempo,1,57
+58,Falta de tempo,1,58
+59,Falta de tempo,1,59
+60,Custo da mensalidade,3,60
+61,Custo da mensalidade,3,61
+62,Distância da academia,2,62
+63,Mudança de residência,8,63
+64,Custo da mensalidade,3,64
+65,Distância da academia,2,65
+66,Falta de motivação,4,66
+67,Falta de tempo,1,67
+68,Mudança de residência,8,68
+69,Falta de tempo,1,69
+70,Pandemia/Preocupações com a saúde,10,70
+71,Falta de companhia,7,71
+72,Falta de tempo,1,72
+73,Falta de tempo,1,73
+74,Mudança de residência,8,74
+75,Lesão ou problema de saúde,6,75
+76,Lesão ou problema de saúde,6,76
+77,Falta de companhia,7,77
+78,Falta de tempo,1,78
+79,Custo da mensalidade,3,79
+80,Falta de tempo,1,80
+81,Insatisfação com o ambiente ou equipamentos,9,81
+82,Preferência por atividades ao ar livre,5,82
+83,Custo da mensalidade,3,83
+84,Falta de tempo,1,84
+85,Custo da mensalidade,3,85
+86,Custo da mensalidade,3,86
+87,Lesão ou problema de saúde,6,87
+88,Preferência por atividades ao ar livre,5,88
+89,Insatisfação com o ambiente ou equipamentos,9,89
+90,Falta de motivação,4,90
+91,Falta de tempo,1,91
+92,Lesão ou problema de saúde,6,92
+93,Falta de companhia,7,93
+94,Falta de motivação,4,94
+95,Falta de companhia,7,95
+96,Falta de motivação,4,96
+97,Falta de motivação,4,97
+98,Custo da mensalidade,3,98
+99,Falta de tempo,1,99
+100,Falta de tempo,1,100
+101,Falta de tempo,1,101
+102,Preferência por atividades ao ar livre,5,102
+103,Custo da mensalidade,3,103
+104,Falta de motivação,4,104
+105,Pandemia/Preocupações com a saúde,10,105
+106,Distância da academia,2,106
+107,Custo da mensalidade,3,107
+108,Falta de companhia,7,108
+109,Distância da academia,2,109
+110,Falta de tempo,1,110
+111,Distância da academia,2,111
+112,Falta de tempo,1,112
+113,Pandemia/Preocupações com a saúde,10,113
+114,Mudança de residência,8,114
+115,Preferência por atividades ao ar livre,5,115
+116,Insatisfação com o ambiente ou equipamentos,9,116
+117,Mudança de residência,8,117
+118,Falta de tempo,1,118
+119,Insatisfação com o ambiente ou equipamentos,9,119
+120,Falta de motivação,4,120
+121,Mudança de residência,8,121
+122,Insatisfação com o ambiente ou equipamentos,9,122
+123,Custo da mensalidade,3,123
+124,Falta de tempo,1,124
+125,Distância da academia,2,125
+126,Custo da mensalidade,3,126
+127,Mudança de residência,8,127
+128,Insatisfação com o ambiente ou equipamentos,9,128
+129,Falta de tempo,1,129
+130,Falta de motivação,4,130
+131,Custo da mensalidade,3,131
+132,Distância da academia,2,132
+133,Falta de tempo,1,133
+134,Custo da mensalidade,3,134
+135,Pandemia/Preocupações com a saúde,10,135
+136,Custo da mensalidade,3,136
+137,Falta de motivação,4,137
+138,Lesão ou problema de saúde,6,138
+139,Custo da mensalidade,3,139
+140,Pandemia/Preocupações com a saúde,10,140
+141,Pandemia/Preocupações com a saúde,10,141
+142,Distância da academia,2,142
+143,Falta de motivação,4,143
+144,Custo da mensalidade,3,144
+145,Distância da academia,2,145
+146,Falta de tempo,1,146
+147,Preferência por atividades ao ar livre,5,147
+148,Falta de motivação,4,148
+149,Falta de tempo,1,149
+150,Distância da academia,2,150
+151,Pandemia/Preocupações com a saúde,10,151
+152,Distância da academia,2,152
+153,Falta de tempo,1,153
+154,Falta de motivação,4,154
+155,Pandemia/Preocupações com a saúde,10,155
+156,Distância da academia,2,156
+157,Lesão ou problema de saúde,6,157
+158,Falta de companhia,7,158
+159,Distância da academia,2,159
+160,Lesão ou problema de saúde,6,160
+161,Custo da mensalidade,3,161
+162,Preferência por atividades ao ar livre,5,162
+163,Preferência por atividades ao ar livre,5,163
+164,Falta de motivação,4,164
+165,Falta de tempo,1,165
+166,Mudança de residência,8,166
+167,Custo da mensalidade,3,167
+168,Falta de tempo,1,168
+169,Falta de tempo,1,169
+170,Falta de motivação,4,170
+171,Lesão ou problema de saúde,6,171
+172,Falta de tempo,1,172
+173,Falta de motivação,4,173
+174,Distância da academia,2,174
+175,Preferência por atividades ao ar livre,5,175
+176,Falta de tempo,1,176
+177,Lesão ou problema de saúde,6,177
+178,Custo da mensalidade,3,178
+179,Pandemia/Preocupações com a saúde,10,179
+180,Falta de tempo,1,180
+181,Custo da mensalidade,3,181
+182,Falta de tempo,1,182
+183,Pandemia/Preocupações com a saúde,10,183
+184,Insatisfação com o ambiente ou equipamentos,9,184
+185,Distância da academia,2,185
+186,Lesão ou problema de saúde,6,186
+187,Mudança de residência,8,187
+188,Falta de motivação,4,188
+189,Falta de motivação,4,189
+190,Distância da academia,2,190
+191,Falta de tempo,1,191
+192,Insatisfação com o ambiente ou equipamentos,9,192
+193,Pandemia/Preocupações com a saúde,10,193
+194,Preferência por atividades ao ar livre,5,194
+195,Custo da mensalidade,3,195
+196,Custo da mensalidade,3,196
+197,Lesão ou problema de saúde,6,197
+198,Insatisfação com o ambiente ou equipamentos,9,198
+199,Insatisfação com o ambiente ou equipamentos,9,199
+200,Falta de companhia,7,200
+201,Preferência por atividades ao ar livre,5,201
+202,Falta de tempo,1,202
+203,Falta de tempo,1,203
+204,Insatisfação com o ambiente ou equipamentos,9,204
+205,Preferência por atividades ao ar livre,5,205
+206,Falta de tempo,1,206
+207,Falta de tempo,1,207
+208,Lesão ou problema de saúde,6,208
+209,Falta de tempo,1,209
+210,Falta de tempo,1,210
+211,Falta de motivação,4,211
+212,Lesão ou problema de saúde,6,212
+213,Lesão ou problema de saúde,6,213
+214,Distância da academia,2,214
+215,Lesão ou problema de saúde,6,215
+216,Distância da academia,2,216
+217,Custo da mensalidade,3,217
+218,Lesão ou problema de saúde,6,218
+219,Preferência por atividades ao ar livre,5,219
+220,Mudança de residência,8,220
+221,Lesão ou problema de saúde,6,221
+222,Falta de motivação,4,222
+223,Falta de tempo,1,223
+224,Custo da mensalidade,3,224
+225,Distância da academia,2,225
+226,Distância da academia,2,226
+227,Pandemia/Preocupações com a saúde,10,227
+228,Custo da mensalidade,3,228
+229,Insatisfação com o ambiente ou equipamentos,9,229
+230,Preferência por atividades ao ar livre,5,230
+231,Falta de companhia,7,231
+232,Falta de motivação,4,232
+233,Falta de motivação,4,233
+234,Falta de motivação,4,234
+235,Falta de tempo,1,235
+236,Lesão ou problema de saúde,6,236
+237,Distância da academia,2,237
+238,Falta de tempo,1,238
+239,Preferência por atividades ao ar livre,5,239
+240,Falta de tempo,1,240
+241,Pandemia/Preocupações com a saúde,10,241
+242,Pandemia/Preocupações com a saúde,10,242
+243,Pandemia/Preocupações com a saúde,10,243
+244,Custo da mensalidade,3,244
+245,Falta de tempo,1,245
+246,Pandemia/Preocupações com a saúde,10,246
+247,Custo da mensalidade,3,247
+248,Pandemia/Preocupações com a saúde,10,248
+249,Pandemia/Preocupações com a saúde,10,249
+250,Insatisfação com o ambiente ou equipamentos,9,250
+251,Distância da academia,2,251
+252,Custo da mensalidade,3,252
+253,Insatisfação com o ambiente ou equipamentos,9,253
+254,Custo da mensalidade,3,254
+255,Falta de tempo,1,255
+256,Falta de motivação,4,256
+257,Pandemia/Preocupações com a saúde,10,257
+258,Lesão ou problema de saúde,6,258
+259,Falta de motivação,4,259
+260,Falta de tempo,1,260
+261,Preferência por atividades ao ar livre,5,261
+262,Pandemia/Preocupações com a saúde,10,262
+263,Falta de tempo,1,263
+264,Falta de motivação,4,264
+265,Insatisfação com o ambiente ou equipamentos,9,265
+266,Lesão ou problema de saúde,6,266
+267,Lesão ou problema de saúde,6,267
+268,Lesão ou problema de saúde,6,268
+269,Custo da mensalidade,3,269
+270,Distância da academia,2,270
+271,Mudança de residência,8,271
+272,Mudança de residência,8,272
+273,Insatisfação com o ambiente ou equipamentos,9,273
+274,Pandemia/Preocupações com a saúde,10,274
+275,Falta de motivação,4,275
+276,Falta de motivação,4,276
+277,Falta de companhia,7,277
+278,Preferência por atividades ao ar livre,5,278
+279,Lesão ou problema de saúde,6,279
+280,Falta de companhia,7,280
+281,Insatisfação com o ambiente ou equipamentos,9,281
+282,Custo da mensalidade,3,282
+283,Custo da mensalidade,3,283
+284,Falta de tempo,1,284
+285,Falta de motivação,4,285
+286,Falta de tempo,1,286
+287,Falta de motivação,4,287
+288,Falta de motivação,4,288
+289,Distância da academia,2,289
+290,Falta de motivação,4,290
+291,Falta de tempo,1,291
+292,Falta de tempo,1,292
+293,Mudança de residência,8,293
+294,Custo da mensalidade,3,294
+295,Falta de tempo,1,295
+296,Falta de motivação,4,296
+297,Falta de companhia,7,297
+298,Distância da academia,2,298
+299,Preferência por atividades ao ar livre,5,299
+300,Falta de tempo,1,300
+301,Falta de tempo,1,301
+302,Falta de motivação,4,302
+303,Falta de motivação,4,303
+304,Preferência por atividades ao ar livre,5,304
+305,Lesão ou problema de saúde,6,305
+306,Pandemia/Preocupações com a saúde,10,306
+307,Falta de motivação,4,307
+308,Custo da mensalidade,3,308
+309,Falta de companhia,7,309
+310,Distância da academia,2,310
+311,Custo da mensalidade,3,311
+312,Falta de tempo,1,312
+313,Falta de tempo,1,313
+314,Pandemia/Preocupações com a saúde,10,314
+315,Mudança de residência,8,315
+316,Lesão ou problema de saúde,6,316
+317,Custo da mensalidade,3,317
+318,Falta de tempo,1,318
+319,Falta de tempo,1,319
+320,Distância da academia,2,320
+321,Falta de motivação,4,321
+322,Lesão ou problema de saúde,6,322
+323,Lesão ou problema de saúde,6,323
+324,Distância da academia,2,324
+325,Pandemia/Preocupações com a saúde,10,325
+326,Lesão ou problema de saúde,6,326
+327,Falta de motivação,4,327
+328,Preferência por atividades ao ar livre,5,328
+329,Custo da mensalidade,3,329
+330,Distância da academia,2,330
+331,Custo da mensalidade,3,331
+332,Falta de companhia,7,332
+333,Falta de tempo,1,333
+334,Falta de tempo,1,334
+335,Falta de tempo,1,335
+336,Falta de tempo,1,336
+337,Insatisfação com o ambiente ou equipamentos,9,337
+338,Lesão ou problema de saúde,6,338
+339,Falta de motivação,4,339
+340,Falta de tempo,1,340
+341,Falta de motivação,4,341
+342,Falta de motivação,4,342
+343,Falta de tempo,1,343
+344,Custo da mensalidade,3,344
+345,Custo da mensalidade,3,345
+346,Preferência por atividades ao ar livre,5,346
+347,Preferência por atividades ao ar livre,5,347
+348,Falta de tempo,1,348
+349,Custo da mensalidade,3,349
+350,Preferência por atividades ao ar livre,5,350
+351,Falta de motivação,4,351
+352,Insatisfação com o ambiente ou equipamentos,9,352
+353,Lesão ou problema de saúde,6,353
+354,Falta de tempo,1,354
+355,Falta de tempo,1,355
+356,Preferência por atividades ao ar livre,5,356
+357,Falta de tempo,1,357
+358,Falta de motivação,4,358
+359,Pandemia/Preocupações com a saúde,10,359
+360,Falta de motivação,4,360
+361,Custo da mensalidade,3,361
+362,Preferência por atividades ao ar livre,5,362
+363,Falta de motivação,4,363
+364,Falta de motivação,4,364
+365,Pandemia/Preocupações com a saúde,10,365
+366,Custo da mensalidade,3,366
+367,Pandemia/Preocupações com a saúde,10,367
+368,Pandemia/Preocupações com a saúde,10,368
+369,Falta de tempo,1,369
+370,Falta de tempo,1,370
+371,Falta de tempo,1,371
+372,Falta de tempo,1,372
+373,Falta de tempo,1,373
+374,Lesão ou problema de saúde,6,374
+375,Falta de tempo,1,375
+376,Custo da mensalidade,3,376
+377,Mudança de residência,8,377
+378,Falta de tempo,1,378
+379,Mudança de residência,8,379
+380,Distância da academia,2,380
+381,Falta de tempo,1,381
+382,Lesão ou problema de saúde,6,382
+383,Preferência por atividades ao ar livre,5,383
+384,Insatisfação com o ambiente ou equipamentos,9,384
+385,Lesão ou problema de saúde,6,385
+386,Mudança de residência,8,386
+387,Distância da academia,2,387
+388,Falta de tempo,1,388
+389,Falta de companhia,7,389
+390,Mudança de residência,8,390
+391,Pandemia/Preocupações com a saúde,10,391
+392,Custo da mensalidade,3,392
+393,Custo da mensalidade,3,393
+394,Falta de companhia,7,394
+395,Custo da mensalidade,3,395
+396,Pandemia/Preocupações com a saúde,10,396
+397,Insatisfação com o ambiente ou equipamentos,9,397
+398,Custo da mensalidade,3,398
+399,Falta de companhia,7,399
+400,Falta de companhia,7,400
+401,Falta de tempo,1,401
+402,Pandemia/Preocupações com a saúde,10,402
+403,Falta de motivação,4,403
+404,Mudança de residência,8,404
+405,Custo da mensalidade,3,405
+406,Insatisfação com o ambiente ou equipamentos,9,406
+407,Custo da mensalidade,3,407
+408,Falta de tempo,1,408
+409,Pandemia/Preocupações com a saúde,10,409
+410,Falta de tempo,1,410
+411,Custo da mensalidade,3,411
+412,Pandemia/Preocupações com a saúde,10,412
+413,Pandemia/Preocupações com a saúde,10,413
+414,Falta de motivação,4,414
+415,Preferência por atividades ao ar livre,5,415
+416,Custo da mensalidade,3,416
+417,Distância da academia,2,417
+418,Custo da mensalidade,3,418
+419,Lesão ou problema de saúde,6,419
+420,Falta de companhia,7,420
+421,Falta de companhia,7,421
+422,Falta de companhia,7,422
+423,Falta de tempo,1,423
+424,Falta de motivação,4,424
+425,Falta de tempo,1,425
+426,Falta de motivação,4,426
+427,Custo da mensalidade,3,427
+428,Insatisfação com o ambiente ou equipamentos,9,428
+429,Custo da mensalidade,3,429
+430,Falta de tempo,1,430
+431,Falta de tempo,1,431
+432,Falta de companhia,7,432
+433,Preferência por atividades ao ar livre,5,433
+434,Falta de tempo,1,434
+435,Falta de tempo,1,435
+436,Lesão ou problema de saúde,6,436
+437,Falta de tempo,1,437
+438,Mudança de residência,8,438
+439,Lesão ou problema de saúde,6,439
+440,Falta de tempo,1,440
+441,Falta de tempo,1,441
+442,Pandemia/Preocupações com a saúde,10,442
+443,Custo da mensalidade,3,443
+444,Custo da mensalidade,3,444
+445,Mudança de residência,8,445
+446,Pandemia/Preocupações com a saúde,10,446
+447,Pandemia/Preocupações com a saúde,10,447
+448,Falta de companhia,7,448
+449,Custo da mensalidade,3,449
+450,Falta de tempo,1,450
+451,Falta de companhia,7,451
+452,Falta de motivação,4,452
+453,Custo da mensalidade,3,453
+454,Pandemia/Preocupações com a saúde,10,454
+455,Falta de tempo,1,455
+456,Falta de motivação,4,456
+457,Falta de tempo,1,457
+458,Falta de motivação,4,458
+459,Falta de tempo,1,459
+460,Falta de tempo,1,460
+461,Falta de tempo,1,461
+462,Preferência por atividades ao ar livre,5,462
+463,Lesão ou problema de saúde,6,463
+464,Falta de motivação,4,464
+465,Pandemia/Preocupações com a saúde,10,465
+466,Custo da mensalidade,3,466
+467,Distância da academia,2,467
+468,Insatisfação com o ambiente ou equipamentos,9,468
+469,Distância da academia,2,469
+470,Pandemia/Preocupações com a saúde,10,470
+471,Falta de tempo,1,471
+472,Pandemia/Preocupações com a saúde,10,472
+473,Falta de tempo,1,473
+474,Insatisfação com o ambiente ou equipamentos,9,474
+475,Falta de motivação,4,475
+476,Pandemia/Preocupações com a saúde,10,476
+477,Falta de tempo,1,477
+478,Falta de motivação,4,478
+479,Pandemia/Preocupações com a saúde,10,479
+480,Falta de motivação,4,480
+481,Preferência por atividades ao ar livre,5,481
+482,Lesão ou problema de saúde,6,482
+483,Falta de motivação,4,483
+484,Preferência por atividades ao ar livre,5,484
+485,Falta de motivação,4,485
+486,Pandemia/Preocupações com a saúde,10,486
+487,Falta de tempo,1,487
+488,Distância da academia,2,488
+489,Pandemia/Preocupações com a saúde,10,489
+490,Insatisfação com o ambiente ou equipamentos,9,490
+491,Falta de motivação,4,491
+492,Preferência por atividades ao ar livre,5,492
+493,Distância da academia,2,493
+494,Falta de tempo,1,494
+495,Falta de motivação,4,495
+496,Custo da mensalidade,3,496
+497,Falta de motivação,4,497
+498,Falta de tempo,1,498
+499,Pandemia/Preocupações com a saúde,10,499
+500,Pandemia/Preocupações com a saúde,10,500
+501,Lesão ou problema de saúde,6,501
+502,Falta de motivação,4,502
+503,Custo da mensalidade,3,503
+504,Mudança de residência,8,504
+505,Lesão ou problema de saúde,6,505
+506,Falta de tempo,1,506
+507,Pandemia/Preocupações com a saúde,10,507
+508,Mudança de residência,8,508
+509,Pandemia/Preocupações com a saúde,10,509
+510,Lesão ou problema de saúde,6,510
+511,Preferência por atividades ao ar livre,5,511
+512,Custo da mensalidade,3,512
+513,Pandemia/Preocupações com a saúde,10,513
+514,Insatisfação com o ambiente ou equipamentos,9,514
+515,Falta de tempo,1,515
+516,Falta de tempo,1,516
+517,Custo da mensalidade,3,517
+518,Mudança de residência,8,518
+519,Pandemia/Preocupações com a saúde,10,519
+520,Falta de tempo,1,520
+521,Falta de motivação,4,521
+522,Custo da mensalidade,3,522
+523,Pandemia/Preocupações com a saúde,10,523
+524,Mudança de residência,8,524
+525,Mudança de residência,8,525
+526,Falta de motivação,4,526
+527,Custo da mensalidade,3,527
+528,Distância da academia,2,528
+529,Falta de tempo,1,529
+530,Insatisfação com o ambiente ou equipamentos,9,530
+531,Mudança de residência,8,531
+532,Pandemia/Preocupações com a saúde,10,532
+533,Pandemia/Preocupações com a saúde,10,533
+534,Falta de motivação,4,534
+535,Falta de companhia,7,535
+536,Pandemia/Preocupações com a saúde,10,536
+537,Mudança de residência,8,537
+538,Distância da academia,2,538
+539,Falta de motivação,4,539
+540,Falta de tempo,1,540
+541,Pandemia/Preocupações com a saúde,10,541
+542,Preferência por atividades ao ar livre,5,542
+543,Distância da academia,2,543
+544,Lesão ou problema de saúde,6,544
+545,Preferência por atividades ao ar livre,5,545
+546,Custo da mensalidade,3,546
+547,Falta de tempo,1,547
+548,Lesão ou problema de saúde,6,548
+549,Falta de motivação,4,549
+550,Falta de companhia,7,550
+551,Falta de motivação,4,551
+552,Insatisfação com o ambiente ou equipamentos,9,552
+553,Falta de motivação,4,553
+554,Falta de motivação,4,554
+555,Insatisfação com o ambiente ou equipamentos,9,555
+556,Custo da mensalidade,3,556
+557,Falta de tempo,1,557
+558,Falta de tempo,1,558
+559,Falta de companhia,7,559
+560,Preferência por atividades ao ar livre,5,560
+561,Lesão ou problema de saúde,6,561
+562,Distância da academia,2,562
+563,Falta de tempo,1,563
+564,Falta de tempo,1,564
+565,Custo da mensalidade,3,565
+566,Falta de motivação,4,566
+567,Custo da mensalidade,3,567
+568,Custo da mensalidade,3,568
+569,Pandemia/Preocupações com a saúde,10,569
+570,Custo da mensalidade,3,570
+571,Falta de motivação,4,571
+572,Falta de companhia,7,572
+573,Custo da mensalidade,3,573
+574,Preferência por atividades ao ar livre,5,574
+575,Insatisfação com o ambiente ou equipamentos,9,575
+576,Pandemia/Preocupações com a saúde,10,576
+577,Falta de tempo,1,577
+578,Pandemia/Preocupações com a saúde,10,578
+579,Falta de motivação,4,579
+580,Distância da academia,2,580
+581,Falta de motivação,4,581
+582,Pandemia/Preocupações com a saúde,10,582
+583,Falta de motivação,4,583
+584,Custo da mensalidade,3,584
+585,Preferência por atividades ao ar livre,5,585
+586,Distância da academia,2,586
+587,Falta de tempo,1,587
+588,Falta de tempo,1,588
+589,Falta de tempo,1,589
+590,Falta de tempo,1,590
+591,Falta de tempo,1,591
+592,Preferência por atividades ao ar livre,5,592
+593,Falta de tempo,1,593
+594,Custo da mensalidade,3,594
+595,Insatisfação com o ambiente ou equipamentos,9,595
+596,Falta de motivação,4,596
+597,Lesão ou problema de saúde,6,597
+598,Falta de tempo,1,598
+599,Falta de tempo,1,599
+600,Falta de tempo,1,600
+601,Falta de tempo,1,601
+602,Distância da academia,2,602
+603,Falta de tempo,1,603
+604,Falta de tempo,1,604
+605,Falta de tempo,1,605
+606,Falta de motivação,4,606
+607,Distância da academia,2,607
+608,Custo da mensalidade,3,608
+609,Falta de motivação,4,609
+610,Lesão ou problema de saúde,6,610
+611,Falta de tempo,1,611
+612,Falta de companhia,7,612
+613,Preferência por atividades ao ar livre,5,613
+614,Falta de tempo,1,614
+615,Insatisfação com o ambiente ou equipamentos,9,615
+616,Pandemia/Preocupações com a saúde,10,616
+617,Falta de tempo,1,617
+618,Distância da academia,2,618
+619,Mudança de residência,8,619
+620,Lesão ou problema de saúde,6,620
+621,Falta de tempo,1,621
+622,Distância da academia,2,622
+623,Custo da mensalidade,3,623
+624,Falta de motivação,4,624
+625,Preferência por atividades ao ar livre,5,625
+626,Custo da mensalidade,3,626
+627,Falta de motivação,4,627
+628,Lesão ou problema de saúde,6,628
+629,Falta de tempo,1,629
+630,Distância da academia,2,630
+631,Lesão ou problema de saúde,6,631
+632,Insatisfação com o ambiente ou equipamentos,9,632
+633,Falta de motivação,4,633
+634,Falta de motivação,4,634
+635,Falta de tempo,1,635
+636,Custo da mensalidade,3,636
+637,Falta de motivação,4,637
+638,Distância da academia,2,638
+639,Distância da academia,2,639
+640,Custo da mensalidade,3,640
+641,Falta de tempo,1,641
+642,Custo da mensalidade,3,642
+643,Distância da academia,2,643
+644,Custo da mensalidade,3,644
+645,Falta de tempo,1,645
+646,Insatisfação com o ambiente ou equipamentos,9,646
+647,Falta de motivação,4,647
+648,Lesão ou problema de saúde,6,648
+649,Falta de companhia,7,649
+650,Falta de motivação,4,650
+651,Falta de tempo,1,651
+652,Falta de motivação,4,652
+653,Falta de motivação,4,653
+654,Lesão ou problema de saúde,6,654
+655,Custo da mensalidade,3,655
+656,Falta de tempo,1,656
+657,Distância da academia,2,657
+658,Custo da mensalidade,3,658
+659,Preferência por atividades ao ar livre,5,659
+660,Falta de motivação,4,660
+661,Custo da mensalidade,3,661
+662,Pandemia/Preocupações com a saúde,10,662
+663,Preferência por atividades ao ar livre,5,663
+664,Distância da academia,2,664
+665,Falta de tempo,1,665
+666,Falta de tempo,1,666
+667,Distância da academia,2,667
+668,Falta de tempo,1,668
+669,Falta de tempo,1,669
+670,Distância da academia,2,670
+671,Falta de tempo,1,671
+672,Insatisfação com o ambiente ou equipamentos,9,672
+673,Falta de tempo,1,673
+674,Falta de motivação,4,674
+675,Custo da mensalidade,3,675
+676,Pandemia/Preocupações com a saúde,10,676
+677,Falta de tempo,1,677
+678,Custo da mensalidade,3,678
+679,Pandemia/Preocupações com a saúde,10,679
+680,Insatisfação com o ambiente ou equipamentos,9,680
+681,Mudança de residência,8,681
+682,Distância da academia,2,682
+683,Falta de tempo,1,683
+684,Lesão ou problema de saúde,6,684
+685,Pandemia/Preocupações com a saúde,10,685
+686,Falta de motivação,4,686
+687,Falta de motivação,4,687
+688,Distância da academia,2,688
+689,Falta de companhia,7,689
+690,Falta de tempo,1,690
+691,Custo da mensalidade,3,691
+692,Custo da mensalidade,3,692
+693,Falta de motivação,4,693
+694,Distância da academia,2,694
+695,Falta de tempo,1,695
+696,Preferência por atividades ao ar livre,5,696
+697,Distância da academia,2,697
+698,Falta de motivação,4,698
+699,Falta de tempo,1,699
+700,Falta de motivação,4,700
+701,Falta de motivação,4,701
+702,Falta de tempo,1,702
+703,Custo da mensalidade,3,703
+704,Falta de tempo,1,704
+705,Falta de tempo,1,705
+706,Pandemia/Preocupações com a saúde,10,706
+707,Custo da mensalidade,3,707
+708,Mudança de residência,8,708
+709,Distância da academia,2,709
+710,Lesão ou problema de saúde,6,710
+711,Falta de companhia,7,711
+712,Falta de motivação,4,712
+713,Falta de motivação,4,713
+714,Custo da mensalidade,3,714
+715,Custo da mensalidade,3,715
+716,Pandemia/Preocupações com a saúde,10,716
+717,Mudança de residência,8,717
+718,Pandemia/Preocupações com a saúde,10,718
+719,Falta de tempo,1,719
+720,Lesão ou problema de saúde,6,720
+721,Pandemia/Preocupações com a saúde,10,721
+722,Falta de tempo,1,722
+723,Falta de tempo,1,723
+724,Lesão ou problema de saúde,6,724
+725,Falta de motivação,4,725
+726,Mudança de residência,8,726
+727,Falta de tempo,1,727
+728,Falta de companhia,7,728
+729,Distância da academia,2,729
+730,Falta de tempo,1,730
+731,Falta de tempo,1,731
+732,Mudança de residência,8,732
+733,Lesão ou problema de saúde,6,733
+734,Falta de motivação,4,734
+735,Custo da mensalidade,3,735
+736,Insatisfação com o ambiente ou equipamentos,9,736
+737,Custo da mensalidade,3,737
+738,Mudança de residência,8,738
+739,Custo da mensalidade,3,739
+740,Custo da mensalidade,3,740
+741,Falta de motivação,4,741
+742,Custo da mensalidade,3,742
+743,Lesão ou problema de saúde,6,743
+744,Falta de motivação,4,744
+745,Distância da academia,2,745
+746,Insatisfação com o ambiente ou equipamentos,9,746
+747,Custo da mensalidade,3,747
+748,Falta de motivação,4,748
+749,Pandemia/Preocupações com a saúde,10,749
+750,Preferência por atividades ao ar livre,5,750
+751,Falta de tempo,1,751
+752,Pandemia/Preocupações com a saúde,10,752
+753,Preferência por atividades ao ar livre,5,753
+754,Custo da mensalidade,3,754
+755,Falta de tempo,1,755
+756,Falta de companhia,7,756
+757,Preferência por atividades ao ar livre,5,757
+758,Falta de motivação,4,758
+759,Insatisfação com o ambiente ou equipamentos,9,759
+760,Falta de companhia,7,760
+761,Falta de tempo,1,761
+762,Custo da mensalidade,3,762
+763,Distância da academia,2,763
+764,Lesão ou problema de saúde,6,764
+765,Falta de tempo,1,765
+766,Falta de motivação,4,766
+767,Falta de companhia,7,767
+768,Insatisfação com o ambiente ou equipamentos,9,768
+769,Custo da mensalidade,3,769
+770,Mudança de residência,8,770
+771,Falta de tempo,1,771
+772,Mudança de residência,8,772
+773,Falta de tempo,1,773
+774,Custo da mensalidade,3,774
+775,Falta de companhia,7,775
+776,Falta de tempo,1,776
+777,Distância da academia,2,777
+778,Lesão ou problema de saúde,6,778
+779,Lesão ou problema de saúde,6,779
+780,Preferência por atividades ao ar livre,5,780
+781,Lesão ou problema de saúde,6,781
+782,Falta de motivação,4,782
+783,Distância da academia,2,783
+784,Custo da mensalidade,3,784
+785,Falta de tempo,1,785
+786,Pandemia/Preocupações com a saúde,10,786
+787,Falta de motivação,4,787
+788,Custo da mensalidade,3,788
+789,Falta de motivação,4,789
+790,Pandemia/Preocupações com a saúde,10,790
+791,Falta de tempo,1,791
+792,Falta de motivação,4,792
+793,Falta de motivação,4,793
+794,Preferência por atividades ao ar livre,5,794
+795,Falta de tempo,1,795
+796,Insatisfação com o ambiente ou equipamentos,9,796
+797,Pandemia/Preocupações com a saúde,10,797
+798,Falta de motivação,4,798
+799,Lesão ou problema de saúde,6,799
+800,Pandemia/Preocupações com a saúde,10,800
+801,Lesão ou problema de saúde,6,801
+802,Falta de tempo,1,802
+803,Falta de motivação,4,803
+804,Preferência por atividades ao ar livre,5,804
+805,Custo da mensalidade,3,805
+806,Lesão ou problema de saúde,6,806
+807,Pandemia/Preocupações com a saúde,10,807
+808,Pandemia/Preocupações com a saúde,10,808
+809,Falta de motivação,4,809
+810,Falta de tempo,1,810
+811,Pandemia/Preocupações com a saúde,10,811
+812,Mudança de residência,8,812
+813,Falta de tempo,1,813
+814,Pandemia/Preocupações com a saúde,10,814
+815,Insatisfação com o ambiente ou equipamentos,9,815
+816,Falta de motivação,4,816
+817,Falta de motivação,4,817
+818,Custo da mensalidade,3,818
+819,Falta de tempo,1,819
+820,Custo da mensalidade,3,820
+821,Mudança de residência,8,821
+822,Falta de tempo,1,822
+823,Custo da mensalidade,3,823
+824,Custo da mensalidade,3,824
+825,Falta de motivação,4,825
+826,Pandemia/Preocupações com a saúde,10,826
+827,Custo da mensalidade,3,827
+828,Custo da mensalidade,3,828
+829,Lesão ou problema de saúde,6,829
+830,Falta de motivação,4,830
+831,Distância da academia,2,831
+832,Falta de motivação,4,832
+833,Falta de tempo,1,833
+834,Falta de tempo,1,834
+835,Falta de motivação,4,835
+836,Custo da mensalidade,3,836
+837,Pandemia/Preocupações com a saúde,10,837
+838,Custo da mensalidade,3,838
+839,Falta de motivação,4,839
+840,Preferência por atividades ao ar livre,5,840
+841,Falta de tempo,1,841
+842,Lesão ou problema de saúde,6,842
+843,Falta de tempo,1,843
+844,Pandemia/Preocupações com a saúde,10,844
+845,Falta de tempo,1,845
+846,Custo da mensalidade,3,846
+847,Falta de tempo,1,847
+848,Pandemia/Preocupações com a saúde,10,848
+849,Falta de motivação,4,849
+850,Falta de motivação,4,850
+851,Falta de tempo,1,851
+852,Lesão ou problema de saúde,6,852
+853,Distância da academia,2,853
+854,Insatisfação com o ambiente ou equipamentos,9,854
+855,Distância da academia,2,855
+856,Falta de tempo,1,856
+857,Falta de tempo,1,857
+858,Falta de motivação,4,858
+859,Falta de motivação,4,859
+860,Falta de tempo,1,860
+861,Falta de companhia,7,861
+862,Falta de motivação,4,862
+863,Falta de motivação,4,863
+864,Custo da mensalidade,3,864
+865,Custo da mensalidade,3,865
+866,Falta de motivação,4,866
+867,Falta de tempo,1,867
+868,Falta de tempo,1,868
+869,Insatisfação com o ambiente ou equipamentos,9,869
+870,Pandemia/Preocupações com a saúde,10,870
+871,Custo da mensalidade,3,871
+872,Distância da academia,2,872
+873,Preferência por atividades ao ar livre,5,873
+874,Custo da mensalidade,3,874
+875,Falta de tempo,1,875
+876,Falta de tempo,1,876
+877,Lesão ou problema de saúde,6,877
+878,Lesão ou problema de saúde,6,878
+879,Falta de tempo,1,879
+880,Distância da academia,2,880
+881,Distância da academia,2,881
+882,Lesão ou problema de saúde,6,882
+883,Falta de tempo,1,883
+884,Falta de tempo,1,884
+885,Falta de companhia,7,885
+886,Falta de tempo,1,886
+887,Lesão ou problema de saúde,6,887
+888,Distância da academia,2,888
+889,Falta de tempo,1,889
+890,Distância da academia,2,890
+891,Lesão ou problema de saúde,6,891
+892,Insatisfação com o ambiente ou equipamentos,9,892
+893,Mudança de residência,8,893
+894,Custo da mensalidade,3,894
+895,Lesão ou problema de saúde,6,895
+896,Distância da academia,2,896
+897,Distância da academia,2,897
+898,Insatisfação com o ambiente ou equipamentos,9,898
+899,Falta de tempo,1,899
+900,Falta de tempo,1,900
+901,Distância da academia,2,901
+902,Falta de tempo,1,902
+903,Falta de tempo,1,903
+904,Falta de motivação,4,904
+905,Custo da mensalidade,3,905
+906,Insatisfação com o ambiente ou equipamentos,9,906
+907,Mudança de residência,8,907
+908,Custo da mensalidade,3,908
+909,Distância da academia,2,909
+910,Custo da mensalidade,3,910
+911,Falta de motivação,4,911
+912,Distância da academia,2,912
+913,Preferência por atividades ao ar livre,5,913
+914,Custo da mensalidade,3,914
+915,Falta de motivação,4,915
+916,Custo da mensalidade,3,916
+917,Distância da academia,2,917
+918,Pandemia/Preocupações com a saúde,10,918
+919,Falta de companhia,7,919
+920,Falta de tempo,1,920
+921,Insatisfação com o ambiente ou equipamentos,9,921
+922,Falta de motivação,4,922
+923,Insatisfação com o ambiente ou equipamentos,9,923
+924,Falta de companhia,7,924
+925,Custo da mensalidade,3,925
+926,Falta de tempo,1,926
+927,Distância da academia,2,927
+928,Falta de motivação,4,928
+929,Preferência por atividades ao ar livre,5,929
+930,Distância da academia,2,930
+931,Falta de tempo,1,931
+932,Mudança de residência,8,932
+933,Pandemia/Preocupações com a saúde,10,933
+934,Falta de motivação,4,934
+935,Falta de tempo,1,935
+936,Distância da academia,2,936
+937,Falta de tempo,1,937
+938,Pandemia/Preocupações com a saúde,10,938
+939,Falta de tempo,1,939
+940,Falta de motivação,4,940
+941,Distância da academia,2,941
+942,Falta de motivação,4,942
+943,Lesão ou problema de saúde,6,943
+944,Mudança de residência,8,944
+945,Distância da academia,2,945
+946,Falta de tempo,1,946
+947,Falta de tempo,1,947
+948,Pandemia/Preocupações com a saúde,10,948
+949,Insatisfação com o ambiente ou equipamentos,9,949
+950,Falta de motivação,4,950
+951,Preferência por atividades ao ar livre,5,951
+952,Lesão ou problema de saúde,6,952
+953,Falta de tempo,1,953
+954,Pandemia/Preocupações com a saúde,10,954
+955,Custo da mensalidade,3,955
+956,Custo da mensalidade,3,956
+957,Falta de motivação,4,957
+958,Falta de tempo,1,958
+959,Falta de tempo,1,959
+960,Lesão ou problema de saúde,6,960
+961,Falta de tempo,1,961
+962,Preferência por atividades ao ar livre,5,962
+963,Distância da academia,2,963
+964,Custo da mensalidade,3,964
+965,Distância da academia,2,965
+966,Custo da mensalidade,3,966
+967,Lesão ou problema de saúde,6,967
+968,Distância da academia,2,968
+969,Falta de motivação,4,969
+970,Falta de motivação,4,970
+971,Lesão ou problema de saúde,6,971
+972,Pandemia/Preocupações com a saúde,10,972
+973,Lesão ou problema de saúde,6,973
+974,Distância da academia,2,974
+975,Falta de tempo,1,975
+976,Distância da academia,2,976
+977,Falta de motivação,4,977
+978,Falta de tempo,1,978
+979,Falta de motivação,4,979
+980,Falta de motivação,4,980
+981,Custo da mensalidade,3,981
+982,Falta de companhia,7,982
+983,Falta de tempo,1,983
+984,Falta de tempo,1,984
+985,Lesão ou problema de saúde,6,985
+986,Falta de motivação,4,986
+987,Lesão ou problema de saúde,6,987
+988,Custo da mensalidade,3,988
+989,Distância da academia,2,989
+990,Mudança de residência,8,990
+991,Falta de companhia,7,991
+992,Lesão ou problema de saúde,6,992
+993,Distância da academia,2,993
+994,Falta de motivação,4,994
+995,Custo da mensalidade,3,995
+996,Falta de tempo,1,996
+997,Pandemia/Preocupações com a saúde,10,997
+998,Falta de tempo,1,998
+999,Pandemia/Preocupações com a saúde,10,999
+1000,Custo da mensalidade,3,1000

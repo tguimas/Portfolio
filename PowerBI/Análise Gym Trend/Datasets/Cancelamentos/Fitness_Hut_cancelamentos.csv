@@ -1,0 +1,211 @@
+Data de Cancelamento,Nome da Academia,Cidade,Sexo,Esporte,Justificativa do Cancelamento
+2023-01-01,Fitness Hut,Setubal,F,Ciclyn,Mudança de cidade
+2023-01-01,Fitness Hut,Setubal,M,Ciclyn,Mudança de cidade
+2023-01-06,Fitness Hut,Gondomar,F,Ciclyn,Problemas financeiros
+2023-01-08,Fitness Hut,Gondomar,F,Yoga,Falta de interesse
+2023-01-09,Fitness Hut,Matosinhos,M,Yoga,Falta de interesse
+2023-01-10,Fitness Hut,Matosinhos,F,Musculação,Falta de interesse
+2023-01-10,Fitness Hut,Espinho,M,Yoga,Falta de interesse
+2023-01-11,Fitness Hut,Matosinhos,M,Ciclyn,Mudança de cidade
+2023-01-11,Fitness Hut,Matosinhos,M,Musculação,Falta de interesse
+2023-01-13,Fitness Hut,Gondomar,F,Ciclyn,Falta de interesse
+2023-01-17,Fitness Hut,Setubal,F,Ciclyn,Mudança de cidade
+2023-01-18,Fitness Hut,Matosinhos,F,Yoga,Mudança de cidade
+2023-01-19,Fitness Hut,Setubal,M,Musculação,Problemas financeiros
+2023-01-19,Fitness Hut,Gondomar,M,Musculação,Problemas financeiros
+2023-01-21,Fitness Hut,Espinho,F,Musculação,Mudança de cidade
+2023-01-28,Fitness Hut,Setubal,M,Musculação,Mudança de cidade
+2023-01-31,Fitness Hut,Gondomar,F,Ciclyn,Problemas financeiros
+2023-01-31,Fitness Hut,Gondomar,F,Yoga,Falta de interesse
+2023-02-05,Fitness Hut,Espinho,F,Musculação,Mudança de cidade
+2023-02-06,Fitness Hut,Setubal,F,Musculação,Problemas financeiros
+2023-02-10,Fitness Hut,Gondomar,F,Yoga,Mudança de cidade
+2023-02-13,Fitness Hut,Matosinhos,M,Ciclyn,Problemas financeiros
+2023-02-21,Fitness Hut,Espinho,M,Yoga,Problemas financeiros
+2023-02-26,Fitness Hut,Setubal,F,Ciclyn,Falta de interesse
+2023-03-05,Fitness Hut,Espinho,F,Musculação,Falta de interesse
+2023-03-05,Fitness Hut,Espinho,M,Ciclyn,Falta de interesse
+2023-03-11,Fitness Hut,Setubal,F,Musculação,Falta de interesse
+2023-03-17,Fitness Hut,Setubal,M,Musculação,Problemas financeiros
+2023-03-19,Fitness Hut,Matosinhos,F,Yoga,Problemas financeiros
+2023-03-21,Fitness Hut,Gondomar,M,Ciclyn,Mudança de cidade
+2023-03-22,Fitness Hut,Gondomar,M,Musculação,Problemas financeiros
+2023-03-30,Fitness Hut,Matosinhos,M,Ciclyn,Mudança de cidade
+2023-04-07,Fitness Hut,Espinho,M,Musculação,Mudança de cidade
+2023-04-07,Fitness Hut,Espinho,F,Ciclyn,Falta de interesse
+2023-04-07,Fitness Hut,Gondomar,M,Yoga,Problemas financeiros
+2023-04-12,Fitness Hut,Setubal,F,Yoga,Problemas financeiros
+2023-04-13,Fitness Hut,Gondomar,F,Musculação,Mudança de cidade
+2023-04-15,Fitness Hut,Gondomar,M,Ciclyn,Problemas financeiros
+2023-04-18,Fitness Hut,Espinho,F,Musculação,Problemas financeiros
+2023-04-19,Fitness Hut,Matosinhos,F,Musculação,Falta de interesse
+2023-04-24,Fitness Hut,Espinho,M,Ciclyn,Mudança de cidade
+2023-04-25,Fitness Hut,Gondomar,F,Musculação,Mudança de cidade
+2023-04-29,Fitness Hut,Espinho,M,Yoga,Falta de interesse
+2023-05-04,Fitness Hut,Matosinhos,F,Ciclyn,Problemas financeiros
+2023-05-04,Fitness Hut,Gondomar,F,Musculação,Falta de interesse
+2023-05-12,Fitness Hut,Matosinhos,M,Ciclyn,Mudança de cidade
+2023-05-16,Fitness Hut,Espinho,M,Yoga,Mudança de cidade
+2023-05-21,Fitness Hut,Espinho,F,Musculação,Falta de interesse
+2023-05-21,Fitness Hut,Gondomar,F,Ciclyn,Mudança de cidade
+2023-05-22,Fitness Hut,Gondomar,M,Musculação,Mudança de cidade
+2023-05-22,Fitness Hut,Setubal,M,Ciclyn,Mudança de cidade
+2023-05-23,Fitness Hut,Gondomar,M,Musculação,Mudança de cidade
+2023-05-24,Fitness Hut,Setubal,F,Yoga,Falta de interesse
+2023-05-24,Fitness Hut,Espinho,M,Yoga,Mudança de cidade
+2023-05-25,Fitness Hut,Matosinhos,F,Musculação,Falta de interesse
+2023-05-28,Fitness Hut,Setubal,F,Ciclyn,Falta de interesse
+2023-06-03,Fitness Hut,Matosinhos,M,Yoga,Mudança de cidade
+2023-06-06,Fitness Hut,Espinho,F,Ciclyn,Mudança de cidade
+2023-06-18,Fitness Hut,Gondomar,M,Musculação,Problemas financeiros
+2023-06-19,Fitness Hut,Matosinhos,F,Musculação,Problemas financeiros
+2023-06-21,Fitness Hut,Matosinhos,F,Ciclyn,Problemas financeiros
+2023-06-24,Fitness Hut,Matosinhos,M,Musculação,Falta de interesse
+2023-06-25,Fitness Hut,Matosinhos,F,Ciclyn,Mudança de cidade
+2023-06-27,Fitness Hut,Espinho,M,Yoga,Problemas financeiros
+2023-06-28,Fitness Hut,Espinho,M,Yoga,Problemas financeiros
+2023-06-30,Fitness Hut,Espinho,F,Ciclyn,Problemas financeiros
+2023-07-01,Fitness Hut,Espinho,F,Musculação,Falta de interesse
+2023-07-04,Fitness Hut,Matosinhos,F,Yoga,Problemas financeiros
+2023-07-08,Fitness Hut,Gondomar,F,Musculação,Falta de interesse
+2023-07-10,Fitness Hut,Gondomar,M,Musculação,Problemas financeiros
+2023-07-11,Fitness Hut,Matosinhos,M,Ciclyn,Falta de interesse
+2023-07-12,Fitness Hut,Setubal,F,Yoga,Problemas financeiros
+2023-07-12,Fitness Hut,Matosinhos,M,Musculação,Mudança de cidade
+2023-07-14,Fitness Hut,Matosinhos,F,Musculação,Problemas financeiros
+2023-07-16,Fitness Hut,Gondomar,F,Ciclyn,Problemas financeiros
+2023-07-16,Fitness Hut,Matosinhos,M,Musculação,Problemas financeiros
+2023-07-17,Fitness Hut,Matosinhos,M,Yoga,Mudança de cidade
+2023-07-20,Fitness Hut,Gondomar,F,Musculação,Mudança de cidade
+2023-07-22,Fitness Hut,Matosinhos,M,Yoga,Mudança de cidade
+2023-07-26,Fitness Hut,Gondomar,F,Yoga,Problemas financeiros
+2023-07-27,Fitness Hut,Gondomar,F,Yoga,Problemas financeiros
+2023-07-29,Fitness Hut,Matosinhos,F,Yoga,Falta de interesse
+2023-07-29,Fitness Hut,Setubal,M,Musculação,Problemas financeiros
+2023-08-06,Fitness Hut,Matosinhos,F,Musculação,Mudança de cidade
+2023-08-07,Fitness Hut,Gondomar,F,Yoga,Problemas financeiros
+2023-08-08,Fitness Hut,Gondomar,F,Yoga,Problemas financeiros
+2023-08-09,Fitness Hut,Matosinhos,F,Ciclyn,Falta de interesse
+2023-08-09,Fitness Hut,Setubal,M,Ciclyn,Mudança de cidade
+2023-08-12,Fitness Hut,Espinho,M,Ciclyn,Mudança de cidade
+2023-08-13,Fitness Hut,Setubal,M,Musculação,Problemas financeiros
+2023-08-13,Fitness Hut,Gondomar,M,Yoga,Problemas financeiros
+2023-08-14,Fitness Hut,Gondomar,F,Musculação,Mudança de cidade
+2023-08-19,Fitness Hut,Setubal,M,Ciclyn,Falta de interesse
+2023-08-19,Fitness Hut,Gondomar,F,Yoga,Falta de interesse
+2023-08-22,Fitness Hut,Matosinhos,F,Yoga,Mudança de cidade
+2023-08-23,Fitness Hut,Espinho,F,Musculação,Falta de interesse
+2023-08-26,Fitness Hut,Setubal,F,Yoga,Problemas financeiros
+2023-08-27,Fitness Hut,Matosinhos,M,Musculação,Problemas financeiros
+2023-08-29,Fitness Hut,Setubal,M,Ciclyn,Mudança de cidade
+2023-09-01,Fitness Hut,Setubal,F,Ciclyn,Problemas financeiros
+2023-09-03,Fitness Hut,Matosinhos,M,Ciclyn,Mudança de cidade
+2023-09-04,Fitness Hut,Gondomar,F,Musculação,Problemas financeiros
+2023-09-08,Fitness Hut,Espinho,M,Ciclyn,Falta de interesse
+2023-09-09,Fitness Hut,Matosinhos,M,Ciclyn,Problemas financeiros
+2023-09-13,Fitness Hut,Espinho,M,Ciclyn,Problemas financeiros
+2023-09-15,Fitness Hut,Matosinhos,F,Ciclyn,Mudança de cidade
+2023-09-22,Fitness Hut,Matosinhos,F,Yoga,Mudança de cidade
+2023-09-24,Fitness Hut,Espinho,M,Musculação,Problemas financeiros
+2023-09-26,Fitness Hut,Gondomar,F,Ciclyn,Falta de interesse
+2023-09-28,Fitness Hut,Gondomar,F,Yoga,Falta de interesse
+2023-09-28,Fitness Hut,Espinho,M,Musculação,Falta de interesse
+2023-09-30,Fitness Hut,Espinho,M,Musculação,Problemas financeiros
+2023-10-01,Fitness Hut,Espinho,F,Musculação,Falta de interesse
+2023-10-04,Fitness Hut,Espinho,M,Ciclyn,Falta de interesse
+2023-10-08,Fitness Hut,Matosinhos,F,Ciclyn,Problemas financeiros
+2023-10-10,Fitness Hut,Gondomar,F,Yoga,Falta de interesse
+2023-10-11,Fitness Hut,Matosinhos,F,Yoga,Problemas financeiros
+2023-10-14,Fitness Hut,Gondomar,F,Yoga,Mudança de cidade
+2023-10-15,Fitness Hut,Espinho,F,Musculação,Mudança de cidade
+2023-10-15,Fitness Hut,Matosinhos,F,Ciclyn,Mudança de cidade
+2023-10-16,Fitness Hut,Gondomar,M,Musculação,Falta de interesse
+2023-10-28,Fitness Hut,Matosinhos,F,Yoga,Falta de interesse
+2023-10-30,Fitness Hut,Gondomar,F,Musculação,Falta de interesse
+2023-10-31,Fitness Hut,Espinho,M,Ciclyn,Problemas financeiros
+2023-11-02,Fitness Hut,Setubal,M,Ciclyn,Falta de interesse
+2023-11-03,Fitness Hut,Espinho,F,Musculação,Problemas financeiros
+2023-11-09,Fitness Hut,Setubal,M,Ciclyn,Problemas financeiros
+2023-11-10,Fitness Hut,Setubal,M,Ciclyn,Problemas financeiros
+2023-11-12,Fitness Hut,Matosinhos,F,Musculação,Falta de interesse
+2023-11-14,Fitness Hut,Setubal,F,Ciclyn,Problemas financeiros
+2023-11-16,Fitness Hut,Matosinhos,F,Musculação,Problemas financeiros
+2023-11-20,Fitness Hut,Gondomar,F,Yoga,Mudança de cidade
+2023-11-21,Fitness Hut,Matosinhos,F,Yoga,Mudança de cidade
+2023-11-21,Fitness Hut,Espinho,F,Musculação,Mudança de cidade
+2023-11-29,Fitness Hut,Espinho,F,Ciclyn,Problemas financeiros
+2023-12-04,Fitness Hut,Espinho,M,Ciclyn,Mudança de cidade
+2023-12-06,Fitness Hut,Setubal,M,Yoga,Problemas financeiros
+2023-12-12,Fitness Hut,Gondomar,F,Ciclyn,Mudança de cidade
+2023-12-18,Fitness Hut,Setubal,M,Musculação,Falta de interesse
+2023-12-19,Fitness Hut,Setubal,F,Musculação,Mudança de cidade
+2023-12-21,Fitness Hut,Setubal,F,Ciclyn,Problemas financeiros
+2023-12-22,Fitness Hut,Matosinhos,F,Yoga,Falta de interesse
+2023-12-24,Fitness Hut,Espinho,M,Ciclyn,Problemas financeiros
+2023-12-25,Fitness Hut,Gondomar,M,Yoga,Falta de interesse
+2023-12-25,Fitness Hut,Matosinhos,M,Ciclyn,Mudança de cidade
+2023-12-27,Fitness Hut,Gondomar,M,Yoga,Problemas financeiros
+2023-12-28,Fitness Hut,Espinho,M,Yoga,Mudança de cidade
+2023-12-29,Fitness Hut,Matosinhos,F,Musculação,Falta de interesse
+2024-01-03,Fitness Hut,Matosinhos,M,Musculação,Problemas financeiros
+2024-01-08,Fitness Hut,Gondomar,F,Ciclyn,Mudança de cidade
+2024-01-08,Fitness Hut,Gondomar,F,Ciclyn,Mudança de cidade
+2024-01-10,Fitness Hut,Espinho,M,Ciclyn,Mudança de cidade
+2024-01-13,Fitness Hut,Matosinhos,M,Ciclyn,Problemas financeiros
+2024-01-14,Fitness Hut,Espinho,M,Yoga,Mudança de cidade
+2024-01-17,Fitness Hut,Espinho,F,Musculação,Mudança de cidade
+2024-01-18,Fitness Hut,Espinho,M,Yoga,Mudança de cidade
+2024-01-18,Fitness Hut,Gondomar,M,Yoga,Mudança de cidade
+2024-01-21,Fitness Hut,Espinho,M,Musculação,Mudança de cidade
+2024-01-23,Fitness Hut,Setubal,M,Ciclyn,Problemas financeiros
+2024-01-26,Fitness Hut,Matosinhos,M,Yoga,Problemas financeiros
+2024-01-29,Fitness Hut,Gondomar,M,Ciclyn,Problemas financeiros
+2024-01-30,Fitness Hut,Setubal,F,Musculação,Mudança de cidade
+2024-02-01,Fitness Hut,Matosinhos,M,Yoga,Falta de interesse
+2024-02-03,Fitness Hut,Setubal,F,Ciclyn,Falta de interesse
+2024-02-03,Fitness Hut,Matosinhos,M,Yoga,Problemas financeiros
+2024-02-08,Fitness Hut,Setubal,M,Musculação,Falta de interesse
+2024-02-12,Fitness Hut,Matosinhos,F,Musculação,Mudança de cidade
+2024-02-12,Fitness Hut,Matosinhos,M,Ciclyn,Mudança de cidade
+2024-02-14,Fitness Hut,Setubal,M,Yoga,Mudança de cidade
+2024-02-24,Fitness Hut,Gondomar,F,Musculação,Mudança de cidade
+2024-02-25,Fitness Hut,Espinho,F,Musculação,Problemas financeiros
+2024-02-27,Fitness Hut,Matosinhos,M,Ciclyn,Problemas financeiros
+2024-02-28,Fitness Hut,Espinho,F,Ciclyn,Mudança de cidade
+2024-02-29,Fitness Hut,Gondomar,F,Yoga,Falta de interesse
+2024-03-05,Fitness Hut,Gondomar,M,Ciclyn,Mudança de cidade
+2024-03-06,Fitness Hut,Setubal,F,Musculação,Mudança de cidade
+2024-03-07,Fitness Hut,Gondomar,F,Yoga,Falta de interesse
+2024-03-09,Fitness Hut,Espinho,M,Yoga,Mudança de cidade
+2024-03-11,Fitness Hut,Matosinhos,F,Ciclyn,Mudança de cidade
+2024-03-21,Fitness Hut,Espinho,F,Musculação,Falta de interesse
+2024-03-21,Fitness Hut,Gondomar,F,Musculação,Falta de interesse
+2024-03-25,Fitness Hut,Gondomar,M,Yoga,Mudança de cidade
+2024-04-02,Fitness Hut,Matosinhos,M,Yoga,Problemas financeiros
+2024-04-03,Fitness Hut,Gondomar,F,Musculação,Problemas financeiros
+2024-04-08,Fitness Hut,Matosinhos,F,Yoga,Problemas financeiros
+2024-04-11,Fitness Hut,Gondomar,M,Ciclyn,Falta de interesse
+2024-04-12,Fitness Hut,Setubal,M,Musculação,Falta de interesse
+2024-04-15,Fitness Hut,Espinho,F,Yoga,Mudança de cidade
+2024-04-17,Fitness Hut,Gondomar,F,Yoga,Mudança de cidade
+2024-04-20,Fitness Hut,Setubal,F,Musculação,Mudança de cidade
+2024-04-21,Fitness Hut,Setubal,M,Yoga,Mudança de cidade
+2024-04-28,Fitness Hut,Setubal,M,Ciclyn,Problemas financeiros
+2024-04-28,Fitness Hut,Matosinhos,F,Ciclyn,Problemas financeiros
+2024-05-02,Fitness Hut,Setubal,M,Yoga,Falta de interesse
+2024-05-04,Fitness Hut,Espinho,F,Ciclyn,Falta de interesse
+2024-05-09,Fitness Hut,Gondomar,M,Ciclyn,Mudança de cidade
+2024-05-10,Fitness Hut,Setubal,M,Ciclyn,Problemas financeiros
+2024-05-13,Fitness Hut,Espinho,F,Musculação,Mudança de cidade
+2024-05-20,Fitness Hut,Setubal,F,Musculação,Problemas financeiros
+2024-05-27,Fitness Hut,Gondomar,F,Ciclyn,Mudança de cidade
+2024-05-28,Fitness Hut,Espinho,M,Yoga,Problemas financeiros
+2024-05-29,Fitness Hut,Setubal,M,Ciclyn,Problemas financeiros
+2024-05-30,Fitness Hut,Gondomar,F,Yoga,Falta de interesse
+2024-05-31,Fitness Hut,Gondomar,M,Musculação,Mudança de cidade
+2024-06-06,Fitness Hut,Setubal,M,Ciclyn,Problemas financeiros
+2024-06-08,Fitness Hut,Matosinhos,M,Musculação,Falta de interesse
+2024-06-12,Fitness Hut,Setubal,F,Musculação,Falta de interesse
+2024-06-12,Fitness Hut,Matosinhos,F,Yoga,Problemas financeiros
+2024-06-13,Fitness Hut,Matosinhos,M,Yoga,Problemas financeiros
+2024-06-27,Fitness Hut,Espinho,M,Ciclyn,Falta de interesse

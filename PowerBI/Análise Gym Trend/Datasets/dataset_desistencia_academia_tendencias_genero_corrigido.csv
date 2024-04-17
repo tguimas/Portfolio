@@ -1,0 +1,1001 @@
+ID,Motivo,ID_Motivo,ID_Pesquisa,Gênero
+1,Falta de tempo,1,1,Masculino
+2,Custo da mensalidade,3,2,Masculino
+3,Distância da academia,2,3,Masculino
+4,Falta de tempo,1,4,Masculino
+5,Pandemia/Preocupações com a saúde,10,5,Masculino
+6,Pandemia/Preocupações com a saúde,10,6,Masculino
+7,Falta de companhia,7,7,Masculino
+8,Pandemia/Preocupações com a saúde,10,8,Feminino
+9,Pandemia/Preocupações com a saúde,10,9,Masculino
+10,Custo da mensalidade,3,10,Masculino
+11,Falta de companhia,7,11,Feminino
+12,Pandemia/Preocupações com a saúde,10,12,Feminino
+13,Distância da academia,2,13,Masculino
+14,Custo da mensalidade,3,14,Masculino
+15,Mudança de residência,8,15,Masculino
+16,Mudança de residência,8,16,Feminino
+17,Insatisfação com o ambiente ou equipamentos,9,17,Feminino
+18,Falta de tempo,1,18,Feminino
+19,Insatisfação com o ambiente ou equipamentos,9,19,Masculino
+20,Lesão ou problema de saúde,6,20,Masculino
+21,Distância da academia,2,21,Feminino
+22,Custo da mensalidade,3,22,Feminino
+23,Falta de companhia,7,23,Masculino
+24,Falta de tempo,1,24,Masculino
+25,Falta de motivação,4,25,Feminino
+26,Falta de tempo,1,26,Masculino
+27,Custo da mensalidade,3,27,Feminino
+28,Pandemia/Preocupações com a saúde,10,28,Masculino
+29,Lesão ou problema de saúde,6,29,Masculino
+30,Custo da mensalidade,3,30,Feminino
+31,Preferência por atividades ao ar livre,5,31,Masculino
+32,Lesão ou problema de saúde,6,32,Feminino
+33,Falta de tempo,1,33,Feminino
+34,Pandemia/Preocupações com a saúde,10,34,Masculino
+35,Lesão ou problema de saúde,6,35,Feminino
+36,Pandemia/Preocupações com a saúde,10,36,Masculino
+37,Mudança de residência,8,37,Feminino
+38,Falta de tempo,1,38,Feminino
+39,Falta de companhia,7,39,Masculino
+40,Distância da academia,2,40,Feminino
+41,Falta de tempo,1,41,Masculino
+42,Falta de tempo,1,42,Masculino
+43,Insatisfação com o ambiente ou equipamentos,9,43,Masculino
+44,Custo da mensalidade,3,44,Masculino
+45,Insatisfação com o ambiente ou equipamentos,9,45,Masculino
+46,Mudança de residência,8,46,Feminino
+47,Insatisfação com o ambiente ou equipamentos,9,47,Feminino
+48,Lesão ou problema de saúde,6,48,Feminino
+49,Falta de motivação,4,49,Masculino
+50,Falta de companhia,7,50,Feminino
+51,Falta de tempo,1,51,Feminino
+52,Mudança de residência,8,52,Feminino
+53,Preferência por atividades ao ar livre,5,53,Feminino
+54,Falta de motivação,4,54,Masculino
+55,Insatisfação com o ambiente ou equipamentos,9,55,Feminino
+56,Custo da mensalidade,3,56,Feminino
+57,Falta de tempo,1,57,Masculino
+58,Lesão ou problema de saúde,6,58,Feminino
+59,Falta de motivação,4,59,Masculino
+60,Custo da mensalidade,3,60,Feminino
+61,Falta de tempo,1,61,Feminino
+62,Custo da mensalidade,3,62,Masculino
+63,Custo da mensalidade,3,63,Feminino
+64,Lesão ou problema de saúde,6,64,Feminino
+65,Falta de tempo,1,65,Feminino
+66,Falta de tempo,1,66,Masculino
+67,Preferência por atividades ao ar livre,5,67,Feminino
+68,Falta de companhia,7,68,Masculino
+69,Falta de motivação,4,69,Masculino
+70,Falta de tempo,1,70,Feminino
+71,Preferência por atividades ao ar livre,5,71,Feminino
+72,Falta de companhia,7,72,Masculino
+73,Pandemia/Preocupações com a saúde,10,73,Masculino
+74,Falta de tempo,1,74,Feminino
+75,Falta de motivação,4,75,Masculino
+76,Custo da mensalidade,3,76,Masculino
+77,Distância da academia,2,77,Masculino
+78,Custo da mensalidade,3,78,Masculino
+79,Custo da mensalidade,3,79,Feminino
+80,Falta de companhia,7,80,Feminino
+81,Falta de motivação,4,81,Masculino
+82,Pandemia/Preocupações com a saúde,10,82,Feminino
+83,Custo da mensalidade,3,83,Masculino
+84,Custo da mensalidade,3,84,Feminino
+85,Falta de motivação,4,85,Masculino
+86,Mudança de residência,8,86,Feminino
+87,Falta de tempo,1,87,Masculino
+88,Pandemia/Preocupações com a saúde,10,88,Masculino
+89,Falta de tempo,1,89,Feminino
+90,Custo da mensalidade,3,90,Feminino
+91,Pandemia/Preocupações com a saúde,10,91,Feminino
+92,Preferência por atividades ao ar livre,5,92,Masculino
+93,Falta de tempo,1,93,Feminino
+94,Insatisfação com o ambiente ou equipamentos,9,94,Masculino
+95,Custo da mensalidade,3,95,Masculino
+96,Distância da academia,2,96,Feminino
+97,Falta de tempo,1,97,Masculino
+98,Custo da mensalidade,3,98,Masculino
+99,Falta de tempo,1,99,Feminino
+100,Preferência por atividades ao ar livre,5,100,Masculino
+101,Falta de tempo,1,101,Masculino
+102,Falta de tempo,1,102,Masculino
+103,Falta de tempo,1,103,Masculino
+104,Falta de motivação,4,104,Feminino
+105,Insatisfação com o ambiente ou equipamentos,9,105,Masculino
+106,Pandemia/Preocupações com a saúde,10,106,Masculino
+107,Custo da mensalidade,3,107,Feminino
+108,Lesão ou problema de saúde,6,108,Feminino
+109,Mudança de residência,8,109,Masculino
+110,Falta de tempo,1,110,Feminino
+111,Mudança de residência,8,111,Masculino
+112,Falta de tempo,1,112,Feminino
+113,Preferência por atividades ao ar livre,5,113,Feminino
+114,Falta de companhia,7,114,Feminino
+115,Falta de motivação,4,115,Masculino
+116,Falta de tempo,1,116,Feminino
+117,Falta de motivação,4,117,Masculino
+118,Insatisfação com o ambiente ou equipamentos,9,118,Masculino
+119,Falta de motivação,4,119,Feminino
+120,Pandemia/Preocupações com a saúde,10,120,Feminino
+121,Pandemia/Preocupações com a saúde,10,121,Masculino
+122,Pandemia/Preocupações com a saúde,10,122,Feminino
+123,Falta de companhia,7,123,Feminino
+124,Preferência por atividades ao ar livre,5,124,Feminino
+125,Falta de motivação,4,125,Feminino
+126,Distância da academia,2,126,Masculino
+127,Custo da mensalidade,3,127,Feminino
+128,Falta de motivação,4,128,Masculino
+129,Custo da mensalidade,3,129,Masculino
+130,Pandemia/Preocupações com a saúde,10,130,Masculino
+131,Falta de motivação,4,131,Feminino
+132,Mudança de residência,8,132,Feminino
+133,Preferência por atividades ao ar livre,5,133,Masculino
+134,Pandemia/Preocupações com a saúde,10,134,Masculino
+135,Pandemia/Preocupações com a saúde,10,135,Feminino
+136,Insatisfação com o ambiente ou equipamentos,9,136,Feminino
+137,Lesão ou problema de saúde,6,137,Masculino
+138,Pandemia/Preocupações com a saúde,10,138,Masculino
+139,Custo da mensalidade,3,139,Masculino
+140,Falta de motivação,4,140,Masculino
+141,Pandemia/Preocupações com a saúde,10,141,Masculino
+142,Pandemia/Preocupações com a saúde,10,142,Masculino
+143,Falta de companhia,7,143,Feminino
+144,Lesão ou problema de saúde,6,144,Feminino
+145,Pandemia/Preocupações com a saúde,10,145,Masculino
+146,Falta de tempo,1,146,Feminino
+147,Lesão ou problema de saúde,6,147,Feminino
+148,Mudança de residência,8,148,Feminino
+149,Falta de companhia,7,149,Feminino
+150,Pandemia/Preocupações com a saúde,10,150,Feminino
+151,Pandemia/Preocupações com a saúde,10,151,Masculino
+152,Lesão ou problema de saúde,6,152,Feminino
+153,Falta de tempo,1,153,Masculino
+154,Falta de tempo,1,154,Feminino
+155,Custo da mensalidade,3,155,Masculino
+156,Mudança de residência,8,156,Masculino
+157,Falta de tempo,1,157,Masculino
+158,Falta de companhia,7,158,Feminino
+159,Mudança de residência,8,159,Feminino
+160,Insatisfação com o ambiente ou equipamentos,9,160,Masculino
+161,Falta de tempo,1,161,Feminino
+162,Falta de motivação,4,162,Masculino
+163,Distância da academia,2,163,Feminino
+164,Custo da mensalidade,3,164,Feminino
+165,Custo da mensalidade,3,165,Feminino
+166,Falta de tempo,1,166,Feminino
+167,Preferência por atividades ao ar livre,5,167,Feminino
+168,Falta de tempo,1,168,Feminino
+169,Falta de tempo,1,169,Masculino
+170,Distância da academia,2,170,Feminino
+171,Falta de tempo,1,171,Feminino
+172,Falta de companhia,7,172,Feminino
+173,Falta de motivação,4,173,Feminino
+174,Falta de tempo,1,174,Feminino
+175,Falta de companhia,7,175,Masculino
+176,Distância da academia,2,176,Masculino
+177,Falta de motivação,4,177,Masculino
+178,Pandemia/Preocupações com a saúde,10,178,Masculino
+179,Distância da academia,2,179,Feminino
+180,Custo da mensalidade,3,180,Feminino
+181,Insatisfação com o ambiente ou equipamentos,9,181,Masculino
+182,Lesão ou problema de saúde,6,182,Masculino
+183,Falta de tempo,1,183,Masculino
+184,Custo da mensalidade,3,184,Masculino
+185,Insatisfação com o ambiente ou equipamentos,9,185,Masculino
+186,Pandemia/Preocupações com a saúde,10,186,Masculino
+187,Pandemia/Preocupações com a saúde,10,187,Masculino
+188,Preferência por atividades ao ar livre,5,188,Feminino
+189,Preferência por atividades ao ar livre,5,189,Feminino
+190,Lesão ou problema de saúde,6,190,Feminino
+191,Falta de motivação,4,191,Feminino
+192,Mudança de residência,8,192,Feminino
+193,Distância da academia,2,193,Feminino
+194,Falta de motivação,4,194,Feminino
+195,Pandemia/Preocupações com a saúde,10,195,Masculino
+196,Distância da academia,2,196,Feminino
+197,Falta de tempo,1,197,Masculino
+198,Falta de tempo,1,198,Feminino
+199,Falta de companhia,7,199,Feminino
+200,Mudança de residência,8,200,Masculino
+201,Falta de tempo,1,201,Masculino
+202,Falta de motivação,4,202,Masculino
+203,Falta de companhia,7,203,Feminino
+204,Falta de companhia,7,204,Feminino
+205,Preferência por atividades ao ar livre,5,205,Masculino
+206,Falta de tempo,1,206,Feminino
+207,Pandemia/Preocupações com a saúde,10,207,Masculino
+208,Custo da mensalidade,3,208,Feminino
+209,Insatisfação com o ambiente ou equipamentos,9,209,Masculino
+210,Distância da academia,2,210,Masculino
+211,Pandemia/Preocupações com a saúde,10,211,Masculino
+212,Falta de companhia,7,212,Feminino
+213,Pandemia/Preocupações com a saúde,10,213,Masculino
+214,Pandemia/Preocupações com a saúde,10,214,Masculino
+215,Pandemia/Preocupações com a saúde,10,215,Feminino
+216,Falta de tempo,1,216,Masculino
+217,Falta de tempo,1,217,Feminino
+218,Custo da mensalidade,3,218,Masculino
+219,Insatisfação com o ambiente ou equipamentos,9,219,Masculino
+220,Falta de tempo,1,220,Masculino
+221,Distância da academia,2,221,Masculino
+222,Falta de companhia,7,222,Masculino
+223,Distância da academia,2,223,Masculino
+224,Pandemia/Preocupações com a saúde,10,224,Masculino
+225,Pandemia/Preocupações com a saúde,10,225,Masculino
+226,Falta de tempo,1,226,Masculino
+227,Lesão ou problema de saúde,6,227,Masculino
+228,Falta de tempo,1,228,Masculino
+229,Falta de motivação,4,229,Masculino
+230,Falta de motivação,4,230,Masculino
+231,Falta de motivação,4,231,Masculino
+232,Falta de tempo,1,232,Feminino
+233,Falta de companhia,7,233,Feminino
+234,Falta de tempo,1,234,Masculino
+235,Falta de tempo,1,235,Masculino
+236,Insatisfação com o ambiente ou equipamentos,9,236,Masculino
+237,Mudança de residência,8,237,Masculino
+238,Falta de companhia,7,238,Masculino
+239,Mudança de residência,8,239,Masculino
+240,Falta de tempo,1,240,Feminino
+241,Insatisfação com o ambiente ou equipamentos,9,241,Masculino
+242,Distância da academia,2,242,Masculino
+243,Pandemia/Preocupações com a saúde,10,243,Feminino
+244,Falta de companhia,7,244,Feminino
+245,Pandemia/Preocupações com a saúde,10,245,Feminino
+246,Custo da mensalidade,3,246,Feminino
+247,Falta de motivação,4,247,Feminino
+248,Pandemia/Preocupações com a saúde,10,248,Masculino
+249,Falta de tempo,1,249,Feminino
+250,Falta de tempo,1,250,Masculino
+251,Falta de companhia,7,251,Feminino
+252,Distância da academia,2,252,Masculino
+253,Falta de companhia,7,253,Masculino
+254,Custo da mensalidade,3,254,Masculino
+255,Mudança de residência,8,255,Feminino
+256,Falta de tempo,1,256,Masculino
+257,Falta de tempo,1,257,Feminino
+258,Falta de motivação,4,258,Masculino
+259,Pandemia/Preocupações com a saúde,10,259,Masculino
+260,Falta de tempo,1,260,Feminino
+261,Pandemia/Preocupações com a saúde,10,261,Masculino
+262,Falta de motivação,4,262,Feminino
+263,Falta de companhia,7,263,Feminino
+264,Insatisfação com o ambiente ou equipamentos,9,264,Masculino
+265,Distância da academia,2,265,Masculino
+266,Pandemia/Preocupações com a saúde,10,266,Feminino
+267,Preferência por atividades ao ar livre,5,267,Masculino
+268,Falta de companhia,7,268,Feminino
+269,Custo da mensalidade,3,269,Feminino
+270,Distância da academia,2,270,Masculino
+271,Custo da mensalidade,3,271,Feminino
+272,Insatisfação com o ambiente ou equipamentos,9,272,Masculino
+273,Falta de tempo,1,273,Feminino
+274,Custo da mensalidade,3,274,Masculino
+275,Preferência por atividades ao ar livre,5,275,Feminino
+276,Lesão ou problema de saúde,6,276,Masculino
+277,Pandemia/Preocupações com a saúde,10,277,Masculino
+278,Falta de tempo,1,278,Masculino
+279,Insatisfação com o ambiente ou equipamentos,9,279,Masculino
+280,Insatisfação com o ambiente ou equipamentos,9,280,Masculino
+281,Falta de tempo,1,281,Feminino
+282,Custo da mensalidade,3,282,Masculino
+283,Mudança de residência,8,283,Masculino
+284,Distância da academia,2,284,Masculino
+285,Falta de motivação,4,285,Feminino
+286,Falta de motivação,4,286,Feminino
+287,Preferência por atividades ao ar livre,5,287,Feminino
+288,Pandemia/Preocupações com a saúde,10,288,Feminino
+289,Falta de motivação,4,289,Masculino
+290,Falta de motivação,4,290,Feminino
+291,Preferência por atividades ao ar livre,5,291,Masculino
+292,Custo da mensalidade,3,292,Feminino
+293,Mudança de residência,8,293,Masculino
+294,Falta de tempo,1,294,Masculino
+295,Mudança de residência,8,295,Feminino
+296,Preferência por atividades ao ar livre,5,296,Masculino
+297,Pandemia/Preocupações com a saúde,10,297,Masculino
+298,Lesão ou problema de saúde,6,298,Feminino
+299,Falta de tempo,1,299,Masculino
+300,Distância da academia,2,300,Masculino
+301,Pandemia/Preocupações com a saúde,10,301,Masculino
+302,Distância da academia,2,302,Feminino
+303,Falta de motivação,4,303,Feminino
+304,Mudança de residência,8,304,Masculino
+305,Lesão ou problema de saúde,6,305,Feminino
+306,Falta de tempo,1,306,Feminino
+307,Falta de tempo,1,307,Feminino
+308,Falta de tempo,1,308,Feminino
+309,Custo da mensalidade,3,309,Feminino
+310,Falta de tempo,1,310,Feminino
+311,Pandemia/Preocupações com a saúde,10,311,Masculino
+312,Falta de tempo,1,312,Feminino
+313,Pandemia/Preocupações com a saúde,10,313,Feminino
+314,Falta de motivação,4,314,Feminino
+315,Falta de tempo,1,315,Feminino
+316,Falta de tempo,1,316,Masculino
+317,Insatisfação com o ambiente ou equipamentos,9,317,Feminino
+318,Falta de tempo,1,318,Feminino
+319,Falta de companhia,7,319,Masculino
+320,Pandemia/Preocupações com a saúde,10,320,Masculino
+321,Falta de motivação,4,321,Masculino
+322,Distância da academia,2,322,Masculino
+323,Falta de tempo,1,323,Feminino
+324,Pandemia/Preocupações com a saúde,10,324,Feminino
+325,Custo da mensalidade,3,325,Feminino
+326,Pandemia/Preocupações com a saúde,10,326,Masculino
+327,Distância da academia,2,327,Masculino
+328,Falta de motivação,4,328,Masculino
+329,Falta de tempo,1,329,Masculino
+330,Lesão ou problema de saúde,6,330,Feminino
+331,Falta de tempo,1,331,Feminino
+332,Falta de companhia,7,332,Feminino
+333,Custo da mensalidade,3,333,Masculino
+334,Pandemia/Preocupações com a saúde,10,334,Masculino
+335,Pandemia/Preocupações com a saúde,10,335,Masculino
+336,Falta de companhia,7,336,Feminino
+337,Pandemia/Preocupações com a saúde,10,337,Masculino
+338,Falta de companhia,7,338,Feminino
+339,Distância da academia,2,339,Masculino
+340,Falta de companhia,7,340,Masculino
+341,Pandemia/Preocupações com a saúde,10,341,Masculino
+342,Falta de companhia,7,342,Feminino
+343,Lesão ou problema de saúde,6,343,Feminino
+344,Falta de tempo,1,344,Masculino
+345,Custo da mensalidade,3,345,Masculino
+346,Falta de tempo,1,346,Feminino
+347,Falta de tempo,1,347,Masculino
+348,Custo da mensalidade,3,348,Feminino
+349,Falta de motivação,4,349,Feminino
+350,Falta de tempo,1,350,Feminino
+351,Distância da academia,2,351,Masculino
+352,Falta de motivação,4,352,Masculino
+353,Falta de tempo,1,353,Masculino
+354,Distância da academia,2,354,Feminino
+355,Pandemia/Preocupações com a saúde,10,355,Feminino
+356,Pandemia/Preocupações com a saúde,10,356,Feminino
+357,Falta de motivação,4,357,Feminino
+358,Custo da mensalidade,3,358,Masculino
+359,Falta de tempo,1,359,Feminino
+360,Pandemia/Preocupações com a saúde,10,360,Feminino
+361,Falta de motivação,4,361,Masculino
+362,Custo da mensalidade,3,362,Feminino
+363,Pandemia/Preocupações com a saúde,10,363,Feminino
+364,Preferência por atividades ao ar livre,5,364,Masculino
+365,Falta de motivação,4,365,Masculino
+366,Distância da academia,2,366,Masculino
+367,Insatisfação com o ambiente ou equipamentos,9,367,Feminino
+368,Falta de tempo,1,368,Feminino
+369,Mudança de residência,8,369,Feminino
+370,Falta de tempo,1,370,Masculino
+371,Pandemia/Preocupações com a saúde,10,371,Feminino
+372,Insatisfação com o ambiente ou equipamentos,9,372,Feminino
+373,Distância da academia,2,373,Masculino
+374,Preferência por atividades ao ar livre,5,374,Feminino
+375,Preferência por atividades ao ar livre,5,375,Masculino
+376,Falta de motivação,4,376,Masculino
+377,Mudança de residência,8,377,Feminino
+378,Custo da mensalidade,3,378,Masculino
+379,Pandemia/Preocupações com a saúde,10,379,Masculino
+380,Insatisfação com o ambiente ou equipamentos,9,380,Feminino
+381,Insatisfação com o ambiente ou equipamentos,9,381,Masculino
+382,Falta de motivação,4,382,Masculino
+383,Falta de motivação,4,383,Masculino
+384,Preferência por atividades ao ar livre,5,384,Masculino
+385,Distância da academia,2,385,Masculino
+386,Insatisfação com o ambiente ou equipamentos,9,386,Feminino
+387,Lesão ou problema de saúde,6,387,Feminino
+388,Falta de tempo,1,388,Masculino
+389,Pandemia/Preocupações com a saúde,10,389,Masculino
+390,Falta de motivação,4,390,Masculino
+391,Mudança de residência,8,391,Feminino
+392,Custo da mensalidade,3,392,Masculino
+393,Falta de companhia,7,393,Feminino
+394,Lesão ou problema de saúde,6,394,Feminino
+395,Falta de motivação,4,395,Masculino
+396,Falta de motivação,4,396,Masculino
+397,Distância da academia,2,397,Feminino
+398,Falta de tempo,1,398,Masculino
+399,Falta de motivação,4,399,Feminino
+400,Falta de tempo,1,400,Masculino
+401,Falta de tempo,1,401,Masculino
+402,Falta de tempo,1,402,Feminino
+403,Falta de tempo,1,403,Feminino
+404,Custo da mensalidade,3,404,Masculino
+405,Falta de motivação,4,405,Masculino
+406,Falta de tempo,1,406,Feminino
+407,Falta de tempo,1,407,Masculino
+408,Falta de tempo,1,408,Feminino
+409,Lesão ou problema de saúde,6,409,Masculino
+410,Insatisfação com o ambiente ou equipamentos,9,410,Masculino
+411,Lesão ou problema de saúde,6,411,Masculino
+412,Custo da mensalidade,3,412,Feminino
+413,Distância da academia,2,413,Masculino
+414,Falta de tempo,1,414,Masculino
+415,Custo da mensalidade,3,415,Feminino
+416,Insatisfação com o ambiente ou equipamentos,9,416,Masculino
+417,Distância da academia,2,417,Masculino
+418,Custo da mensalidade,3,418,Feminino
+419,Falta de tempo,1,419,Masculino
+420,Falta de tempo,1,420,Feminino
+421,Insatisfação com o ambiente ou equipamentos,9,421,Masculino
+422,Falta de tempo,1,422,Feminino
+423,Falta de motivação,4,423,Masculino
+424,Pandemia/Preocupações com a saúde,10,424,Masculino
+425,Falta de motivação,4,425,Feminino
+426,Lesão ou problema de saúde,6,426,Masculino
+427,Lesão ou problema de saúde,6,427,Feminino
+428,Insatisfação com o ambiente ou equipamentos,9,428,Masculino
+429,Falta de companhia,7,429,Feminino
+430,Falta de motivação,4,430,Masculino
+431,Pandemia/Preocupações com a saúde,10,431,Feminino
+432,Insatisfação com o ambiente ou equipamentos,9,432,Masculino
+433,Falta de tempo,1,433,Feminino
+434,Falta de motivação,4,434,Masculino
+435,Falta de tempo,1,435,Masculino
+436,Falta de companhia,7,436,Feminino
+437,Custo da mensalidade,3,437,Feminino
+438,Mudança de residência,8,438,Feminino
+439,Falta de tempo,1,439,Masculino
+440,Custo da mensalidade,3,440,Feminino
+441,Falta de tempo,1,441,Feminino
+442,Mudança de residência,8,442,Masculino
+443,Lesão ou problema de saúde,6,443,Feminino
+444,Pandemia/Preocupações com a saúde,10,444,Masculino
+445,Custo da mensalidade,3,445,Masculino
+446,Falta de tempo,1,446,Feminino
+447,Custo da mensalidade,3,447,Feminino
+448,Custo da mensalidade,3,448,Feminino
+449,Insatisfação com o ambiente ou equipamentos,9,449,Masculino
+450,Falta de tempo,1,450,Masculino
+451,Lesão ou problema de saúde,6,451,Feminino
+452,Custo da mensalidade,3,452,Feminino
+453,Preferência por atividades ao ar livre,5,453,Feminino
+454,Insatisfação com o ambiente ou equipamentos,9,454,Masculino
+455,Falta de motivação,4,455,Masculino
+456,Falta de tempo,1,456,Feminino
+457,Custo da mensalidade,3,457,Masculino
+458,Insatisfação com o ambiente ou equipamentos,9,458,Feminino
+459,Pandemia/Preocupações com a saúde,10,459,Masculino
+460,Preferência por atividades ao ar livre,5,460,Feminino
+461,Falta de tempo,1,461,Feminino
+462,Pandemia/Preocupações com a saúde,10,462,Masculino
+463,Lesão ou problema de saúde,6,463,Feminino
+464,Distância da academia,2,464,Feminino
+465,Mudança de residência,8,465,Feminino
+466,Insatisfação com o ambiente ou equipamentos,9,466,Masculino
+467,Custo da mensalidade,3,467,Masculino
+468,Preferência por atividades ao ar livre,5,468,Masculino
+469,Pandemia/Preocupações com a saúde,10,469,Feminino
+470,Falta de tempo,1,470,Masculino
+471,Falta de tempo,1,471,Feminino
+472,Falta de motivação,4,472,Masculino
+473,Custo da mensalidade,3,473,Feminino
+474,Custo da mensalidade,3,474,Masculino
+475,Pandemia/Preocupações com a saúde,10,475,Masculino
+476,Mudança de residência,8,476,Masculino
+477,Lesão ou problema de saúde,6,477,Feminino
+478,Falta de companhia,7,478,Feminino
+479,Falta de tempo,1,479,Feminino
+480,Falta de companhia,7,480,Masculino
+481,Falta de tempo,1,481,Masculino
+482,Custo da mensalidade,3,482,Feminino
+483,Pandemia/Preocupações com a saúde,10,483,Feminino
+484,Lesão ou problema de saúde,6,484,Feminino
+485,Falta de tempo,1,485,Masculino
+486,Falta de motivação,4,486,Masculino
+487,Lesão ou problema de saúde,6,487,Feminino
+488,Distância da academia,2,488,Feminino
+489,Pandemia/Preocupações com a saúde,10,489,Feminino
+490,Pandemia/Preocupações com a saúde,10,490,Masculino
+491,Falta de motivação,4,491,Feminino
+492,Falta de tempo,1,492,Feminino
+493,Falta de motivação,4,493,Feminino
+494,Custo da mensalidade,3,494,Feminino
+495,Falta de tempo,1,495,Masculino
+496,Custo da mensalidade,3,496,Feminino
+497,Falta de motivação,4,497,Masculino
+498,Distância da academia,2,498,Masculino
+499,Falta de motivação,4,499,Feminino
+500,Distância da academia,2,500,Masculino
+501,Falta de motivação,4,501,Feminino
+502,Pandemia/Preocupações com a saúde,10,502,Feminino
+503,Preferência por atividades ao ar livre,5,503,Masculino
+504,Falta de tempo,1,504,Masculino
+505,Falta de tempo,1,505,Feminino
+506,Falta de tempo,1,506,Masculino
+507,Falta de motivação,4,507,Feminino
+508,Lesão ou problema de saúde,6,508,Masculino
+509,Lesão ou problema de saúde,6,509,Feminino
+510,Pandemia/Preocupações com a saúde,10,510,Feminino
+511,Preferência por atividades ao ar livre,5,511,Masculino
+512,Mudança de residência,8,512,Masculino
+513,Preferência por atividades ao ar livre,5,513,Feminino
+514,Distância da academia,2,514,Masculino
+515,Falta de tempo,1,515,Feminino
+516,Pandemia/Preocupações com a saúde,10,516,Feminino
+517,Custo da mensalidade,3,517,Feminino
+518,Pandemia/Preocupações com a saúde,10,518,Masculino
+519,Pandemia/Preocupações com a saúde,10,519,Feminino
+520,Distância da academia,2,520,Masculino
+521,Lesão ou problema de saúde,6,521,Feminino
+522,Lesão ou problema de saúde,6,522,Feminino
+523,Lesão ou problema de saúde,6,523,Feminino
+524,Preferência por atividades ao ar livre,5,524,Masculino
+525,Falta de motivação,4,525,Masculino
+526,Pandemia/Preocupações com a saúde,10,526,Masculino
+527,Falta de companhia,7,527,Feminino
+528,Falta de tempo,1,528,Feminino
+529,Falta de tempo,1,529,Feminino
+530,Falta de tempo,1,530,Feminino
+531,Falta de companhia,7,531,Feminino
+532,Falta de tempo,1,532,Feminino
+533,Falta de tempo,1,533,Masculino
+534,Falta de motivação,4,534,Masculino
+535,Insatisfação com o ambiente ou equipamentos,9,535,Masculino
+536,Mudança de residência,8,536,Masculino
+537,Pandemia/Preocupações com a saúde,10,537,Feminino
+538,Lesão ou problema de saúde,6,538,Feminino
+539,Falta de companhia,7,539,Masculino
+540,Falta de companhia,7,540,Feminino
+541,Lesão ou problema de saúde,6,541,Feminino
+542,Pandemia/Preocupações com a saúde,10,542,Masculino
+543,Pandemia/Preocupações com a saúde,10,543,Feminino
+544,Falta de tempo,1,544,Feminino
+545,Falta de tempo,1,545,Masculino
+546,Distância da academia,2,546,Masculino
+547,Custo da mensalidade,3,547,Feminino
+548,Falta de companhia,7,548,Feminino
+549,Preferência por atividades ao ar livre,5,549,Feminino
+550,Falta de tempo,1,550,Feminino
+551,Custo da mensalidade,3,551,Feminino
+552,Mudança de residência,8,552,Feminino
+553,Falta de motivação,4,553,Masculino
+554,Falta de motivação,4,554,Masculino
+555,Custo da mensalidade,3,555,Feminino
+556,Falta de companhia,7,556,Feminino
+557,Pandemia/Preocupações com a saúde,10,557,Feminino
+558,Falta de tempo,1,558,Feminino
+559,Custo da mensalidade,3,559,Feminino
+560,Preferência por atividades ao ar livre,5,560,Masculino
+561,Custo da mensalidade,3,561,Masculino
+562,Custo da mensalidade,3,562,Feminino
+563,Insatisfação com o ambiente ou equipamentos,9,563,Feminino
+564,Falta de companhia,7,564,Feminino
+565,Falta de motivação,4,565,Masculino
+566,Falta de tempo,1,566,Feminino
+567,Mudança de residência,8,567,Feminino
+568,Custo da mensalidade,3,568,Feminino
+569,Falta de tempo,1,569,Feminino
+570,Falta de tempo,1,570,Masculino
+571,Falta de motivação,4,571,Feminino
+572,Custo da mensalidade,3,572,Feminino
+573,Distância da academia,2,573,Masculino
+574,Falta de motivação,4,574,Feminino
+575,Falta de motivação,4,575,Masculino
+576,Pandemia/Preocupações com a saúde,10,576,Feminino
+577,Distância da academia,2,577,Masculino
+578,Falta de motivação,4,578,Masculino
+579,Custo da mensalidade,3,579,Feminino
+580,Falta de tempo,1,580,Feminino
+581,Falta de motivação,4,581,Feminino
+582,Falta de tempo,1,582,Masculino
+583,Mudança de residência,8,583,Masculino
+584,Insatisfação com o ambiente ou equipamentos,9,584,Masculino
+585,Custo da mensalidade,3,585,Feminino
+586,Distância da academia,2,586,Feminino
+587,Pandemia/Preocupações com a saúde,10,587,Feminino
+588,Falta de motivação,4,588,Masculino
+589,Distância da academia,2,589,Masculino
+590,Custo da mensalidade,3,590,Masculino
+591,Insatisfação com o ambiente ou equipamentos,9,591,Feminino
+592,Custo da mensalidade,3,592,Masculino
+593,Mudança de residência,8,593,Feminino
+594,Custo da mensalidade,3,594,Masculino
+595,Custo da mensalidade,3,595,Feminino
+596,Pandemia/Preocupações com a saúde,10,596,Feminino
+597,Custo da mensalidade,3,597,Masculino
+598,Custo da mensalidade,3,598,Masculino
+599,Insatisfação com o ambiente ou equipamentos,9,599,Masculino
+600,Falta de tempo,1,600,Masculino
+601,Falta de companhia,7,601,Feminino
+602,Insatisfação com o ambiente ou equipamentos,9,602,Masculino
+603,Falta de motivação,4,603,Masculino
+604,Custo da mensalidade,3,604,Feminino
+605,Distância da academia,2,605,Feminino
+606,Falta de companhia,7,606,Masculino
+607,Mudança de residência,8,607,Masculino
+608,Falta de tempo,1,608,Feminino
+609,Falta de motivação,4,609,Masculino
+610,Falta de tempo,1,610,Masculino
+611,Falta de motivação,4,611,Feminino
+612,Falta de motivação,4,612,Feminino
+613,Falta de motivação,4,613,Feminino
+614,Falta de tempo,1,614,Feminino
+615,Mudança de residência,8,615,Masculino
+616,Distância da academia,2,616,Masculino
+617,Lesão ou problema de saúde,6,617,Feminino
+618,Distância da academia,2,618,Masculino
+619,Distância da academia,2,619,Masculino
+620,Distância da academia,2,620,Masculino
+621,Distância da academia,2,621,Masculino
+622,Distância da academia,2,622,Masculino
+623,Mudança de residência,8,623,Masculino
+624,Lesão ou problema de saúde,6,624,Feminino
+625,Falta de motivação,4,625,Masculino
+626,Falta de motivação,4,626,Masculino
+627,Falta de companhia,7,627,Masculino
+628,Falta de companhia,7,628,Feminino
+629,Distância da academia,2,629,Masculino
+630,Custo da mensalidade,3,630,Feminino
+631,Preferência por atividades ao ar livre,5,631,Feminino
+632,Falta de motivação,4,632,Masculino
+633,Falta de companhia,7,633,Masculino
+634,Falta de tempo,1,634,Masculino
+635,Falta de motivação,4,635,Masculino
+636,Lesão ou problema de saúde,6,636,Feminino
+637,Falta de tempo,1,637,Masculino
+638,Insatisfação com o ambiente ou equipamentos,9,638,Feminino
+639,Insatisfação com o ambiente ou equipamentos,9,639,Masculino
+640,Falta de motivação,4,640,Masculino
+641,Lesão ou problema de saúde,6,641,Masculino
+642,Falta de tempo,1,642,Masculino
+643,Falta de motivação,4,643,Masculino
+644,Lesão ou problema de saúde,6,644,Masculino
+645,Falta de companhia,7,645,Feminino
+646,Falta de tempo,1,646,Feminino
+647,Lesão ou problema de saúde,6,647,Feminino
+648,Mudança de residência,8,648,Feminino
+649,Pandemia/Preocupações com a saúde,10,649,Masculino
+650,Falta de motivação,4,650,Masculino
+651,Distância da academia,2,651,Masculino
+652,Falta de motivação,4,652,Masculino
+653,Insatisfação com o ambiente ou equipamentos,9,653,Masculino
+654,Pandemia/Preocupações com a saúde,10,654,Masculino
+655,Falta de tempo,1,655,Masculino
+656,Custo da mensalidade,3,656,Feminino
+657,Falta de tempo,1,657,Feminino
+658,Falta de tempo,1,658,Feminino
+659,Falta de tempo,1,659,Feminino
+660,Custo da mensalidade,3,660,Feminino
+661,Mudança de residência,8,661,Masculino
+662,Falta de tempo,1,662,Masculino
+663,Pandemia/Preocupações com a saúde,10,663,Masculino
+664,Custo da mensalidade,3,664,Feminino
+665,Pandemia/Preocupações com a saúde,10,665,Masculino
+666,Pandemia/Preocupações com a saúde,10,666,Feminino
+667,Falta de tempo,1,667,Masculino
+668,Distância da academia,2,668,Masculino
+669,Falta de companhia,7,669,Feminino
+670,Falta de tempo,1,670,Feminino
+671,Custo da mensalidade,3,671,Feminino
+672,Falta de companhia,7,672,Feminino
+673,Custo da mensalidade,3,673,Feminino
+674,Falta de tempo,1,674,Feminino
+675,Insatisfação com o ambiente ou equipamentos,9,675,Masculino
+676,Falta de motivação,4,676,Feminino
+677,Lesão ou problema de saúde,6,677,Feminino
+678,Falta de companhia,7,678,Feminino
+679,Falta de tempo,1,679,Masculino
+680,Falta de companhia,7,680,Feminino
+681,Falta de motivação,4,681,Feminino
+682,Falta de companhia,7,682,Feminino
+683,Falta de companhia,7,683,Masculino
+684,Falta de tempo,1,684,Feminino
+685,Distância da academia,2,685,Masculino
+686,Falta de companhia,7,686,Feminino
+687,Falta de companhia,7,687,Masculino
+688,Pandemia/Preocupações com a saúde,10,688,Masculino
+689,Falta de tempo,1,689,Masculino
+690,Falta de companhia,7,690,Feminino
+691,Falta de motivação,4,691,Masculino
+692,Insatisfação com o ambiente ou equipamentos,9,692,Feminino
+693,Falta de motivação,4,693,Masculino
+694,Falta de tempo,1,694,Feminino
+695,Custo da mensalidade,3,695,Feminino
+696,Distância da academia,2,696,Masculino
+697,Preferência por atividades ao ar livre,5,697,Feminino
+698,Distância da academia,2,698,Masculino
+699,Pandemia/Preocupações com a saúde,10,699,Masculino
+700,Pandemia/Preocupações com a saúde,10,700,Feminino
+701,Falta de companhia,7,701,Feminino
+702,Falta de tempo,1,702,Feminino
+703,Falta de tempo,1,703,Feminino
+704,Insatisfação com o ambiente ou equipamentos,9,704,Masculino
+705,Pandemia/Preocupações com a saúde,10,705,Feminino
+706,Distância da academia,2,706,Masculino
+707,Falta de motivação,4,707,Feminino
+708,Pandemia/Preocupações com a saúde,10,708,Masculino
+709,Falta de tempo,1,709,Feminino
+710,Distância da academia,2,710,Feminino
+711,Falta de motivação,4,711,Feminino
+712,Falta de tempo,1,712,Feminino
+713,Mudança de residência,8,713,Feminino
+714,Lesão ou problema de saúde,6,714,Feminino
+715,Insatisfação com o ambiente ou equipamentos,9,715,Masculino
+716,Falta de companhia,7,716,Feminino
+717,Falta de companhia,7,717,Feminino
+718,Lesão ou problema de saúde,6,718,Feminino
+719,Falta de tempo,1,719,Feminino
+720,Falta de tempo,1,720,Feminino
+721,Distância da academia,2,721,Masculino
+722,Pandemia/Preocupações com a saúde,10,722,Masculino
+723,Insatisfação com o ambiente ou equipamentos,9,723,Masculino
+724,Falta de tempo,1,724,Feminino
+725,Falta de companhia,7,725,Feminino
+726,Pandemia/Preocupações com a saúde,10,726,Masculino
+727,Falta de motivação,4,727,Masculino
+728,Pandemia/Preocupações com a saúde,10,728,Masculino
+729,Lesão ou problema de saúde,6,729,Feminino
+730,Mudança de residência,8,730,Feminino
+731,Insatisfação com o ambiente ou equipamentos,9,731,Masculino
+732,Falta de tempo,1,732,Masculino
+733,Mudança de residência,8,733,Feminino
+734,Custo da mensalidade,3,734,Feminino
+735,Insatisfação com o ambiente ou equipamentos,9,735,Masculino
+736,Pandemia/Preocupações com a saúde,10,736,Masculino
+737,Falta de motivação,4,737,Masculino
+738,Falta de tempo,1,738,Masculino
+739,Custo da mensalidade,3,739,Masculino
+740,Falta de tempo,1,740,Masculino
+741,Insatisfação com o ambiente ou equipamentos,9,741,Masculino
+742,Preferência por atividades ao ar livre,5,742,Feminino
+743,Falta de tempo,1,743,Masculino
+744,Distância da academia,2,744,Masculino
+745,Falta de tempo,1,745,Feminino
+746,Lesão ou problema de saúde,6,746,Feminino
+747,Custo da mensalidade,3,747,Feminino
+748,Insatisfação com o ambiente ou equipamentos,9,748,Masculino
+749,Falta de tempo,1,749,Masculino
+750,Lesão ou problema de saúde,6,750,Masculino
+751,Falta de motivação,4,751,Masculino
+752,Preferência por atividades ao ar livre,5,752,Masculino
+753,Lesão ou problema de saúde,6,753,Masculino
+754,Falta de motivação,4,754,Masculino
+755,Falta de tempo,1,755,Feminino
+756,Distância da academia,2,756,Masculino
+757,Pandemia/Preocupações com a saúde,10,757,Masculino
+758,Pandemia/Preocupações com a saúde,10,758,Masculino
+759,Lesão ou problema de saúde,6,759,Masculino
+760,Distância da academia,2,760,Masculino
+761,Falta de motivação,4,761,Masculino
+762,Lesão ou problema de saúde,6,762,Feminino
+763,Falta de motivação,4,763,Masculino
+764,Preferência por atividades ao ar livre,5,764,Feminino
+765,Pandemia/Preocupações com a saúde,10,765,Masculino
+766,Falta de companhia,7,766,Masculino
+767,Pandemia/Preocupações com a saúde,10,767,Masculino
+768,Pandemia/Preocupações com a saúde,10,768,Feminino
+769,Lesão ou problema de saúde,6,769,Masculino
+770,Falta de companhia,7,770,Masculino
+771,Pandemia/Preocupações com a saúde,10,771,Masculino
+772,Distância da academia,2,772,Feminino
+773,Mudança de residência,8,773,Masculino
+774,Preferência por atividades ao ar livre,5,774,Masculino
+775,Distância da academia,2,775,Masculino
+776,Falta de motivação,4,776,Feminino
+777,Falta de motivação,4,777,Masculino
+778,Falta de tempo,1,778,Feminino
+779,Lesão ou problema de saúde,6,779,Feminino
+780,Lesão ou problema de saúde,6,780,Masculino
+781,Falta de motivação,4,781,Masculino
+782,Mudança de residência,8,782,Feminino
+783,Pandemia/Preocupações com a saúde,10,783,Feminino
+784,Falta de motivação,4,784,Feminino
+785,Insatisfação com o ambiente ou equipamentos,9,785,Feminino
+786,Preferência por atividades ao ar livre,5,786,Feminino
+787,Lesão ou problema de saúde,6,787,Feminino
+788,Preferência por atividades ao ar livre,5,788,Feminino
+789,Falta de tempo,1,789,Feminino
+790,Falta de tempo,1,790,Masculino
+791,Falta de tempo,1,791,Feminino
+792,Falta de tempo,1,792,Feminino
+793,Lesão ou problema de saúde,6,793,Feminino
+794,Pandemia/Preocupações com a saúde,10,794,Masculino
+795,Preferência por atividades ao ar livre,5,795,Feminino
+796,Insatisfação com o ambiente ou equipamentos,9,796,Feminino
+797,Falta de companhia,7,797,Masculino
+798,Mudança de residência,8,798,Masculino
+799,Insatisfação com o ambiente ou equipamentos,9,799,Feminino
+800,Pandemia/Preocupações com a saúde,10,800,Masculino
+801,Falta de tempo,1,801,Feminino
+802,Lesão ou problema de saúde,6,802,Masculino
+803,Lesão ou problema de saúde,6,803,Masculino
+804,Insatisfação com o ambiente ou equipamentos,9,804,Masculino
+805,Falta de tempo,1,805,Feminino
+806,Falta de tempo,1,806,Feminino
+807,Custo da mensalidade,3,807,Masculino
+808,Pandemia/Preocupações com a saúde,10,808,Masculino
+809,Custo da mensalidade,3,809,Feminino
+810,Custo da mensalidade,3,810,Feminino
+811,Custo da mensalidade,3,811,Feminino
+812,Falta de tempo,1,812,Feminino
+813,Falta de tempo,1,813,Feminino
+814,Falta de tempo,1,814,Feminino
+815,Custo da mensalidade,3,815,Feminino
+816,Pandemia/Preocupações com a saúde,10,816,Feminino
+817,Falta de tempo,1,817,Feminino
+818,Custo da mensalidade,3,818,Feminino
+819,Falta de tempo,1,819,Feminino
+820,Custo da mensalidade,3,820,Masculino
+821,Falta de tempo,1,821,Feminino
+822,Falta de tempo,1,822,Feminino
+823,Custo da mensalidade,3,823,Masculino
+824,Lesão ou problema de saúde,6,824,Feminino
+825,Pandemia/Preocupações com a saúde,10,825,Feminino
+826,Mudança de residência,8,826,Feminino
+827,Insatisfação com o ambiente ou equipamentos,9,827,Masculino
+828,Insatisfação com o ambiente ou equipamentos,9,828,Feminino
+829,Distância da academia,2,829,Masculino
+830,Falta de motivação,4,830,Feminino
+831,Mudança de residência,8,831,Masculino
+832,Mudança de residência,8,832,Feminino
+833,Falta de motivação,4,833,Masculino
+834,Falta de motivação,4,834,Feminino
+835,Custo da mensalidade,3,835,Feminino
+836,Distância da academia,2,836,Feminino
+837,Insatisfação com o ambiente ou equipamentos,9,837,Feminino
+838,Falta de motivação,4,838,Masculino
+839,Custo da mensalidade,3,839,Masculino
+840,Falta de tempo,1,840,Masculino
+841,Custo da mensalidade,3,841,Feminino
+842,Falta de companhia,7,842,Feminino
+843,Falta de motivação,4,843,Feminino
+844,Falta de companhia,7,844,Feminino
+845,Falta de tempo,1,845,Masculino
+846,Falta de motivação,4,846,Masculino
+847,Preferência por atividades ao ar livre,5,847,Masculino
+848,Insatisfação com o ambiente ou equipamentos,9,848,Feminino
+849,Falta de tempo,1,849,Feminino
+850,Falta de motivação,4,850,Masculino
+851,Lesão ou problema de saúde,6,851,Feminino
+852,Falta de motivação,4,852,Feminino
+853,Falta de companhia,7,853,Masculino
+854,Pandemia/Preocupações com a saúde,10,854,Masculino
+855,Falta de tempo,1,855,Feminino
+856,Falta de motivação,4,856,Masculino
+857,Falta de motivação,4,857,Masculino
+858,Falta de tempo,1,858,Feminino
+859,Insatisfação com o ambiente ou equipamentos,9,859,Masculino
+860,Preferência por atividades ao ar livre,5,860,Feminino
+861,Falta de motivação,4,861,Masculino
+862,Lesão ou problema de saúde,6,862,Feminino
+863,Pandemia/Preocupações com a saúde,10,863,Feminino
+864,Custo da mensalidade,3,864,Feminino
+865,Distância da academia,2,865,Feminino
+866,Preferência por atividades ao ar livre,5,866,Masculino
+867,Falta de tempo,1,867,Feminino
+868,Distância da academia,2,868,Masculino
+869,Falta de motivação,4,869,Masculino
+870,Distância da academia,2,870,Feminino
+871,Preferência por atividades ao ar livre,5,871,Masculino
+872,Preferência por atividades ao ar livre,5,872,Masculino
+873,Insatisfação com o ambiente ou equipamentos,9,873,Masculino
+874,Falta de companhia,7,874,Feminino
+875,Pandemia/Preocupações com a saúde,10,875,Masculino
+876,Preferência por atividades ao ar livre,5,876,Feminino
+877,Preferência por atividades ao ar livre,5,877,Masculino
+878,Falta de tempo,1,878,Masculino
+879,Falta de tempo,1,879,Masculino
+880,Distância da academia,2,880,Masculino
+881,Falta de motivação,4,881,Feminino
+882,Distância da academia,2,882,Masculino
+883,Lesão ou problema de saúde,6,883,Masculino
+884,Falta de companhia,7,884,Feminino
+885,Custo da mensalidade,3,885,Feminino
+886,Falta de tempo,1,886,Masculino
+887,Preferência por atividades ao ar livre,5,887,Masculino
+888,Falta de tempo,1,888,Masculino
+889,Falta de tempo,1,889,Feminino
+890,Falta de tempo,1,890,Masculino
+891,Lesão ou problema de saúde,6,891,Feminino
+892,Distância da academia,2,892,Masculino
+893,Preferência por atividades ao ar livre,5,893,Masculino
+894,Falta de motivação,4,894,Masculino
+895,Mudança de residência,8,895,Masculino
+896,Falta de motivação,4,896,Masculino
+897,Falta de motivação,4,897,Feminino
+898,Pandemia/Preocupações com a saúde,10,898,Feminino
+899,Custo da mensalidade,3,899,Feminino
+900,Mudança de residência,8,900,Feminino
+901,Falta de companhia,7,901,Masculino
+902,Falta de tempo,1,902,Feminino
+903,Lesão ou problema de saúde,6,903,Masculino
+904,Lesão ou problema de saúde,6,904,Masculino
+905,Falta de motivação,4,905,Masculino
+906,Falta de motivação,4,906,Feminino
+907,Lesão ou problema de saúde,6,907,Masculino
+908,Preferência por atividades ao ar livre,5,908,Feminino
+909,Pandemia/Preocupações com a saúde,10,909,Feminino
+910,Falta de tempo,1,910,Masculino
+911,Insatisfação com o ambiente ou equipamentos,9,911,Masculino
+912,Falta de tempo,1,912,Feminino
+913,Falta de motivação,4,913,Masculino
+914,Falta de tempo,1,914,Masculino
+915,Falta de tempo,1,915,Masculino
+916,Falta de tempo,1,916,Masculino
+917,Lesão ou problema de saúde,6,917,Masculino
+918,Custo da mensalidade,3,918,Feminino
+919,Preferência por atividades ao ar livre,5,919,Masculino
+920,Insatisfação com o ambiente ou equipamentos,9,920,Masculino
+921,Preferência por atividades ao ar livre,5,921,Feminino
+922,Preferência por atividades ao ar livre,5,922,Masculino
+923,Pandemia/Preocupações com a saúde,10,923,Masculino
+924,Falta de tempo,1,924,Feminino
+925,Mudança de residência,8,925,Masculino
+926,Falta de motivação,4,926,Masculino
+927,Distância da academia,2,927,Masculino
+928,Custo da mensalidade,3,928,Masculino
+929,Custo da mensalidade,3,929,Masculino
+930,Lesão ou problema de saúde,6,930,Feminino
+931,Lesão ou problema de saúde,6,931,Masculino
+932,Lesão ou problema de saúde,6,932,Masculino
+933,Falta de tempo,1,933,Masculino
+934,Mudança de residência,8,934,Feminino
+935,Preferência por atividades ao ar livre,5,935,Masculino
+936,Falta de companhia,7,936,Feminino
+937,Pandemia/Preocupações com a saúde,10,937,Feminino
+938,Pandemia/Preocupações com a saúde,10,938,Feminino
+939,Lesão ou problema de saúde,6,939,Feminino
+940,Mudança de residência,8,940,Masculino
+941,Falta de motivação,4,941,Masculino
+942,Custo da mensalidade,3,942,Masculino
+943,Falta de tempo,1,943,Masculino
+944,Custo da mensalidade,3,944,Feminino
+945,Falta de tempo,1,945,Masculino
+946,Mudança de residência,8,946,Feminino
+947,Pandemia/Preocupações com a saúde,10,947,Masculino
+948,Custo da mensalidade,3,948,Feminino
+949,Falta de tempo,1,949,Feminino
+950,Falta de tempo,1,950,Masculino
+951,Falta de companhia,7,951,Feminino
+952,Falta de tempo,1,952,Masculino
+953,Custo da mensalidade,3,953,Feminino
+954,Falta de motivação,4,954,Masculino
+955,Falta de tempo,1,955,Feminino
+956,Lesão ou problema de saúde,6,956,Feminino
+957,Lesão ou problema de saúde,6,957,Feminino
+958,Preferência por atividades ao ar livre,5,958,Feminino
+959,Distância da academia,2,959,Masculino
+960,Insatisfação com o ambiente ou equipamentos,9,960,Masculino
+961,Falta de companhia,7,961,Feminino
+962,Distância da academia,2,962,Masculino
+963,Distância da academia,2,963,Masculino
+964,Falta de motivação,4,964,Masculino
+965,Custo da mensalidade,3,965,Masculino
+966,Pandemia/Preocupações com a saúde,10,966,Feminino
+967,Distância da academia,2,967,Masculino
+968,Distância da academia,2,968,Feminino
+969,Mudança de residência,8,969,Masculino
+970,Custo da mensalidade,3,970,Masculino
+971,Pandemia/Preocupações com a saúde,10,971,Masculino
+972,Falta de tempo,1,972,Feminino
+973,Falta de motivação,4,973,Feminino
+974,Distância da academia,2,974,Feminino
+975,Pandemia/Preocupações com a saúde,10,975,Masculino
+976,Preferência por atividades ao ar livre,5,976,Feminino
+977,Lesão ou problema de saúde,6,977,Feminino
+978,Falta de tempo,1,978,Feminino
+979,Custo da mensalidade,3,979,Masculino
+980,Custo da mensalidade,3,980,Masculino
+981,Falta de tempo,1,981,Masculino
+982,Pandemia/Preocupações com a saúde,10,982,Masculino
+983,Insatisfação com o ambiente ou equipamentos,9,983,Feminino
+984,Lesão ou problema de saúde,6,984,Feminino
+985,Falta de motivação,4,985,Masculino
+986,Custo da mensalidade,3,986,Feminino
+987,Falta de tempo,1,987,Masculino
+988,Insatisfação com o ambiente ou equipamentos,9,988,Masculino
+989,Falta de tempo,1,989,Masculino
+990,Falta de motivação,4,990,Masculino
+991,Falta de tempo,1,991,Feminino
+992,Falta de tempo,1,992,Feminino
+993,Pandemia/Preocupações com a saúde,10,993,Masculino
+994,Falta de companhia,7,994,Feminino
+995,Lesão ou problema de saúde,6,995,Feminino
+996,Falta de motivação,4,996,Masculino
+997,Insatisfação com o ambiente ou equipamentos,9,997,Feminino
+998,Preferência por atividades ao ar livre,5,998,Masculino
+999,Preferência por atividades ao ar livre,5,999,Masculino
+1000,Insatisfação com o ambiente ou equipamentos,9,1000,Masculino

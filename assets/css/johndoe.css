@@ -26,7 +26,7 @@
   --teal: #20c997;
   --cyan: #47D8E0;
   --white: #fff;
-  --gray: #6c757d;
+  --gray: #22262a;
   --gray-dark: #343a40;
   --primary: #4c61e7
   ;
@@ -224,7 +224,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #535e68;
   text-align: left;
   caption-side: bottom;
 }
@@ -2045,7 +2045,7 @@ pre code {
 .table-dark td,
 .table-dark thead th,
 .table-dark tbody + tbody {
-  border-color: #95999c;
+  border-color: #252728;
 }
 
 .table-hover .table-dark:hover {
@@ -2175,7 +2175,7 @@ pre code {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #495057;
+  color: #393f45;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
@@ -11566,8 +11566,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header.jpg);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header2.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../imgs/header2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
