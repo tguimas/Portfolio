@@ -1,6 +1,6 @@
-# PowerApps for Mobile
+# App for Mobile made in PowerApps
 
-### This is an app for gym management
+### This is an app for Gym Management
 
 
 ![ezgif com-animated-gif-maker (1)](https://github.com/tguimas/Portfolio/assets/115223702/56f6116f-4448-405c-9ef8-04403efa544f)
