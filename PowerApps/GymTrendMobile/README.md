@@ -29,6 +29,10 @@ This page displays an avatar, an welcome message and the date
 ![Screenshot_1](https://github.com/tguimas/Portfolio/assets/115223702/950903d6-96fc-4547-aa31-bf89edfbf7dc)
 
 
+### Gym Management Page
+
+
+
 
 ### The navigation between pages 
 
