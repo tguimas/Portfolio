@@ -1,0 +1,14 @@
+
+<body>
+    <div class="container mt-5">
+        <h1>Atualizar Funções</h1>
+        <form (submit)="update()" class="mt-5">
+            <div class="form-group">
+                <label for="inputName"><strong>Nome da Função</strong></label>
+                <input type="text" class="form-control" id="inputName" placeholder="Função..." name="nomeFuncao" [(ngModel)]="funcao.nomeFuncao">
+            </div>
+
+            <button type="submit" class="btn btn-dark btn-sm"(click)="update()">Atualizar</button>
+        </form>
+    </div>
+</body>

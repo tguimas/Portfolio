@@ -1,0 +1,23 @@
+<body>
+    <h1>Funções</h1>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div id="bar" class="col-sm-12 col-md-3 col-lg-2 bg-dark-green text-dark p-5 mb-3 d-flex flex-column focus">
+                <button #list id="list" class="glow-button" (click)="openComponent(list)">Ver todas as Funções</button>
+                <button #create id="create" class="glow-button" (click)="openComponent(create)">Criar Função</button>
+                <button #read id="read" class="glow-button" (click)="openComponent(read)">Ler Função</button>
+            </div>
+            <div id="info" class="col-md-9 col-lg-10 p-3 mb-3">
+                <ng-container [ngSwitch]="currentComponent">
+                    <app-list-funcoes *ngSwitchCase="'list-funcoes'"></app-list-funcoes>
+                    <app-create-funcao *ngSwitchCase="'create-funcoes'"></app-create-funcao>
+                    <app-read-funcao *ngSwitchCase="'read-funcoes'"></app-read-funcao>
+                    <div *ngSwitchDefault class="d-flex justify-content-center">
+                        <img src="assets/images/logo.png">
+                    </div>
+                </ng-container>
+            </div>
+        </div>
+    </div>
+</body>

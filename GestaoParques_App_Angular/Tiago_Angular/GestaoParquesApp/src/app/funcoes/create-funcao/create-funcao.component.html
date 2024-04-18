@@ -1,0 +1,17 @@
+
+<body>
+    <div class="container d-flex justify-content-center align-items-center vh-100">
+        <div class="criar">
+            <h1>Criar Funções</h1>
+            <form (submit)="create()">
+                <div class="form-group mt-3">
+                    <label for="inputName">Nome da Função</label>
+                    <input type="text" class="form-control" id="inputName" placeholder="Função..." name="nomeFuncao" [(ngModel)]="funcao.nomeFuncao">
+                </div>
+                <button type="submit" class="btn btn-dark btn-sm">Criar</button>
+            </form>
+        </div>
+    </div>
+
+   
+</body>

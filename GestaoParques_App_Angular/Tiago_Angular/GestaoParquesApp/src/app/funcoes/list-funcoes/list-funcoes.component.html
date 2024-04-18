@@ -1,0 +1,21 @@
+<section>
+    <h1 class="mb-5">Lista de Funções</h1>
+    <div class="container px-4 px-lg-5">
+        <div class="row custom-grid row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4">
+            <div class="col mb-5" *ngFor="let fun of funcoesList">
+                <div class="card h-100">
+                    <img class="card-img-top " src="/assets/images/funcoes/{{fun.idFuncao}}.png" alt="fotos" />
+                    <div class="btn-dark card-body p-4">
+                        <div class="text-center">
+                            <h5 class="fw-bolder">{{fun.idFuncao}} - {{fun.nomeFuncao}}</h5>
+                            <div class="d-flex justify-content-between">
+                                <button id="editar" class="btn btn-primary btn-atualizar" [routerLink]="['/funcoes/update-funcao', fun.idFuncao]">Atualizar</button>
+                                <button class="btn btn-danger" [routerLink]="['/funcoes/delete-funcao', fun.idFuncao]">Eliminar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

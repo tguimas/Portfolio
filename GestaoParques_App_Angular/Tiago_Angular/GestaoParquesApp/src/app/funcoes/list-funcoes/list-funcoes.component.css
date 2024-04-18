@@ -1,0 +1,19 @@
+h1{
+    align-items: center;
+    display:flexbox;
+}
+
+.custom-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 10px; /* Ajuste conforme necessário */
+}
+
+.custom-grid img {
+    max-width: 100%; 
+    height: auto; 
+}
+
+.btn-atualizar {
+    margin-right: 13px; /* Ajuste a margem conforme necessário */
+}
