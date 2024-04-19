@@ -3,6 +3,14 @@
 
 ![Screenshot_13](https://github.com/tguimas/Portfolio/assets/115223702/0f824e66-d4bd-4a05-b45b-f74e9ec479b4)
 
+
+<div style="text-align:center;">
+    [Custom Name](http://www.example.com)
+</div>
+
+
+
+
 <center>
 
 [Visit My Portfolio](https://tguimas.github.io/Portfolio/)
