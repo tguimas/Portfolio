@@ -1,3 +1,4 @@
 ## Time Cards ##
 
-![Time_Card_App]([assets/imgs/TC_1.png](https://github.com/tguimas/Portfolio/assets/imgs/TC_1.png))
+
+![TC_1](https://github.com/user-attachments/assets/cebc0598-d223-491e-8261-84ac90dc8809)
