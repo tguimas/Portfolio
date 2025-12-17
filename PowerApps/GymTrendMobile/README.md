@@ -2,6 +2,9 @@
 
 ### This is an app for Gym Management
 
+The purpose of this app is to help staff monitor the gym environment by reporting problems with machines, providing descriptions and photos, and tracking progress on fixing them. 
+It also lets users manage which tasks are operational in each room and capture a picture when creating or updating a report.
+
 
 ![All the images](https://github.com/tguimas/Portfolio/blob/main/assets/imgs/ezgif-79b6e1e85286f80a.gif)
 
@@ -9,7 +12,7 @@
 ### Login Page
 
 
-In this page the user can login with username and password and recover password
+In this page the user can login with their username and password and recover their password
 
 
 ![Login Page](https://github.com/tguimas/Portfolio/assets/115223702/96f3bd7e-5a6d-42d2-a3e1-91441cb7dd1f)
@@ -25,7 +28,7 @@ In this page the user can define a new password
 
 ### Home Page
 
-This page displays an avatar, an welcome message and the date
+This page displays after the user logs into the app, showing an avatar, that can later be changed, an welcome message and the date
 
 
 ![Home Page](https://github.com/tguimas/Portfolio/assets/115223702/950903d6-96fc-4547-aa31-bf89edfbf7dc)
@@ -69,4 +72,5 @@ This page let's the user manage which tasks are operational in each room and let
 
 
 ![ScreenNavigation](https://github.com/tguimas/Portfolio/assets/115223702/e588a5c7-6070-48ca-b0eb-b59afc7dc189)
+
 
