@@ -1,6 +1,6 @@
 ### Copilot Chatbot with information regarding a Gym Business, Gym Trend
 
-Flow structure of the processes to display gym schedule and available products to sell
+Flow structure of the process to display gym schedule and available products to sell
 
 
 ![flow-detailed](https://github.com/tguimas/Portfolio/assets/115223702/954d5e34-05f4-4957-8cd1-e27a74c3b64b)
